@@ -1,0 +1,920 @@
+,Year_x,Period,Avg hrs per day sleeping,Standard Error,Type of Days,Age Group_x,Activity,Gender_x,Unique ID,Age Group_y,Year_y,Gender_y,Number with income (thousands),Mean income,"2022
+dollars"
+0,2003,Annual,8.48,0.031,All days,15 years and over,Sleeping,Male,2003-15 years and over-Male,15 years and over,2003,Male,100800,41480,63070
+1,2003,Annual,8.16,0.039,Nonholiday weekdays,15 years and over,Sleeping,Male,2003-15 years and over-Male,15 years and over,2003,Male,100800,41480,63070
+2,2003,Annual,9.22,0.044,Weekend days and holidays,15 years and over,Sleeping,Male,2003-15 years and over-Male,15 years and over,2003,Male,100800,41480,63070
+3,2004,Annual,8.48,0.04,All days,15 years and over,Sleeping,Male,2004-15 years and over-Male,15 years and over,2004,Male,101800,42830,63530
+4,2004,Annual,8.16,0.053,Nonholiday weekdays,15 years and over,Sleeping,Male,2004-15 years and over-Male,15 years and over,2004,Male,101800,42830,63530
+5,2004,Annual,9.23,0.046,Weekend days and holidays,15 years and over,Sleeping,Male,2004-15 years and over-Male,15 years and over,2004,Male,101800,42830,63530
+6,2005,Annual,8.53,0.034,All days,15 years and over,Sleeping,Male,2005-15 years and over-Male,15 years and over,2005,Male,103000,44850,64650
+7,2005,Annual,8.25,0.045,Nonholiday weekdays,15 years and over,Sleeping,Male,2005-15 years and over-Male,15 years and over,2005,Male,103000,44850,64650
+8,2005,Annual,9.22,0.06,Weekend days and holidays,15 years and over,Sleeping,Male,2005-15 years and over-Male,15 years and over,2005,Male,103000,44850,64650
+9,2006,Annual,8.56,0.035,All days,15 years and over,Sleeping,Male,2006-15 years and over-Male,15 years and over,2006,Male,103900,46680,65390
+10,2006,Annual,8.26,0.045,Nonholiday weekdays,15 years and over,Sleeping,Male,2006-15 years and over-Male,15 years and over,2006,Male,103900,46680,65390
+11,2006,Annual,9.28,0.055,Weekend days and holidays,15 years and over,Sleeping,Male,2006-15 years and over-Male,15 years and over,2006,Male,103900,46680,65390
+12,2007,Annual,8.52,0.038,All days,15 years and over,Sleeping,Male,2007-15 years and over-Male,15 years and over,2007,Male,104800,47140,64380
+13,2007,Annual,8.2,0.05,Nonholiday weekdays,15 years and over,Sleeping,Male,2007-15 years and over-Male,15 years and over,2007,Male,104800,47140,64380
+14,2007,Annual,9.24,0.055,Weekend days and holidays,15 years and over,Sleeping,Male,2007-15 years and over-Male,15 years and over,2007,Male,104800,47140,64380
+15,2008,Annual,8.56,0.033,All days,15 years and over,Sleeping,Male,2008-15 years and over-Male,15 years and over,2008,Male,105400,47750,62910
+16,2008,Annual,8.27,0.045,Nonholiday weekdays,15 years and over,Sleeping,Male,2008-15 years and over-Male,15 years and over,2008,Male,105400,47750,62910
+17,2008,Annual,9.25,0.055,Weekend days and holidays,15 years and over,Sleeping,Male,2008-15 years and over-Male,15 years and over,2008,Male,105400,47750,62910
+18,2009,Annual,8.62,0.041,All days,15 years and over,Sleeping,Male,2009-15 years and over-Male,15 years and over,2009,Male,105000,46800,61910
+19,2009,Annual,8.31,0.053,Nonholiday weekdays,15 years and over,Sleeping,Male,2009-15 years and over-Male,15 years and over,2009,Male,105000,46800,61910
+20,2009,Annual,9.33,0.048,Weekend days and holidays,15 years and over,Sleeping,Male,2009-15 years and over-Male,15 years and over,2009,Male,105000,46800,61910
+21,2010,Annual,8.56,0.035,All days,15 years and over,Sleeping,Male,2010-15 years and over-Male,15 years and over,2010,Male,105200,47080,61430
+22,2010,Annual,8.27,0.047,Nonholiday weekdays,15 years and over,Sleeping,Male,2010-15 years and over-Male,15 years and over,2010,Male,105200,47080,61430
+23,2010,Annual,9.28,0.046,Weekend days and holidays,15 years and over,Sleeping,Male,2010-15 years and over-Male,15 years and over,2010,Male,105200,47080,61430
+24,2011,Annual,8.62,0.036,All days,15 years and over,Sleeping,Male,2011-15 years and over-Male,15 years and over,2011,Male,106200,48950,61950
+25,2011,Annual,8.33,0.046,Nonholiday weekdays,15 years and over,Sleeping,Male,2011-15 years and over-Male,15 years and over,2011,Male,106200,48950,61950
+26,2011,Annual,9.31,0.059,Weekend days and holidays,15 years and over,Sleeping,Male,2011-15 years and over-Male,15 years and over,2011,Male,106200,48950,61950
+27,2012,Annual,8.6,0.041,All days,15 years and over,Sleeping,Male,2012-15 years and over-Male,15 years and over,2012,Male,107500,49920,61980
+28,2012,Annual,8.28,0.052,Nonholiday weekdays,15 years and over,Sleeping,Male,2012-15 years and over-Male,15 years and over,2012,Male,107500,49920,61980
+29,2012,Annual,9.33,0.059,Weekend days and holidays,15 years and over,Sleeping,Male,2012-15 years and over-Male,15 years and over,2012,Male,107500,49920,61980
+30,2013,Annual,8.65,0.041,All days,15 years and over,Sleeping,Male,2013-15 years and over-Male,15 years and over,2013,Male,109900,52530,64440
+31,2013,Annual,8.65,0.041,All days,15 years and over,Sleeping,Male,2013-15 years and over-Male,15 years and over,2013,Male,108700,50780,62300
+32,2013,Annual,8.38,0.053,Nonholiday weekdays,15 years and over,Sleeping,Male,2013-15 years and over-Male,15 years and over,2013,Male,109900,52530,64440
+33,2013,Annual,8.38,0.053,Nonholiday weekdays,15 years and over,Sleeping,Male,2013-15 years and over-Male,15 years and over,2013,Male,108700,50780,62300
+34,2013,Annual,9.3,0.056,Weekend days and holidays,15 years and over,Sleeping,Male,2013-15 years and over-Male,15 years and over,2013,Male,109900,52530,64440
+35,2013,Annual,9.3,0.056,Weekend days and holidays,15 years and over,Sleeping,Male,2013-15 years and over-Male,15 years and over,2013,Male,108700,50780,62300
+36,2014,Annual,8.69,0.036,All days,15 years and over,Sleeping,Male,2014-15 years and over-Male,15 years and over,2014,Male,110400,53200,64350
+37,2014,Annual,8.44,0.047,Nonholiday weekdays,15 years and over,Sleeping,Male,2014-15 years and over-Male,15 years and over,2014,Male,110400,53200,64350
+38,2014,Annual,9.26,0.053,Weekend days and holidays,15 years and over,Sleeping,Male,2014-15 years and over-Male,15 years and over,2014,Male,110400,53200,64350
+39,2015,Annual,8.77,0.045,All days,15 years and over,Sleeping,Male,2015-15 years and over-Male,15 years and over,2015,Male,112300,54760,66280
+40,2015,Annual,8.52,0.058,Nonholiday weekdays,15 years and over,Sleeping,Male,2015-15 years and over-Male,15 years and over,2015,Male,112300,54760,66280
+41,2015,Annual,9.34,0.061,Weekend days and holidays,15 years and over,Sleeping,Male,2015-15 years and over-Male,15 years and over,2015,Male,112300,54760,66280
+42,2016,Annual,8.69,0.043,All days,15 years and over,Sleeping,Male,2016-15 years and over-Male,15 years and over,2016,Male,113200,57150,68570
+43,2016,Annual,8.36,0.056,Nonholiday weekdays,15 years and over,Sleeping,Male,2016-15 years and over-Male,15 years and over,2016,Male,113200,57150,68570
+44,2016,Annual,9.47,0.061,Weekend days and holidays,15 years and over,Sleeping,Male,2016-15 years and over-Male,15 years and over,2016,Male,113200,57150,68570
+45,2017,Annual,8.7,0.04,All days,15 years and over,Sleeping,Male,2017-15 years and over-Male,15 years and over,2017,Male,114700,59740,70440
+46,2017,Annual,8.7,0.04,All days,15 years and over,Sleeping,Male,2017-15 years and over-Male,15 years and over,2017,Male,114800,58930,69480
+47,2017,Annual,8.4,0.055,Nonholiday weekdays,15 years and over,Sleeping,Male,2017-15 years and over-Male,15 years and over,2017,Male,114700,59740,70440
+48,2017,Annual,8.4,0.055,Nonholiday weekdays,15 years and over,Sleeping,Male,2017-15 years and over-Male,15 years and over,2017,Male,114800,58930,69480
+49,2017,Annual,9.38,0.053,Weekend days and holidays,15 years and over,Sleeping,Male,2017-15 years and over-Male,15 years and over,2017,Male,114700,59740,70440
+50,2017,Annual,9.38,0.053,Weekend days and holidays,15 years and over,Sleeping,Male,2017-15 years and over-Male,15 years and over,2017,Male,114800,58930,69480
+51,2003,Annual,9.14,0.095,All days,15 to 24 years,Sleeping,Male,2003-15 to 24 years-Male,15 to 24 years,2003,Male,14240,13240,20140
+52,2003,Annual,8.73,0.131,Nonholiday weekdays,15 to 24 years,Sleeping,Male,2003-15 to 24 years-Male,15 to 24 years,2003,Male,14240,13240,20140
+53,2003,Annual,10.13,0.133,Weekend days and holidays,15 to 24 years,Sleeping,Male,2003-15 to 24 years-Male,15 to 24 years,2003,Male,14240,13240,20140
+54,2004,Annual,9.12,0.109,All days,15 to 24 years,Sleeping,Male,2004-15 to 24 years-Male,15 to 24 years,2004,Male,14200,14390,21340
+55,2004,Annual,8.65,0.143,Nonholiday weekdays,15 to 24 years,Sleeping,Male,2004-15 to 24 years-Male,15 to 24 years,2004,Male,14200,14390,21340
+56,2004,Annual,10.25,0.156,Weekend days and holidays,15 to 24 years,Sleeping,Male,2004-15 to 24 years-Male,15 to 24 years,2004,Male,14200,14390,21340
+57,2005,Annual,9.2,0.118,All days,15 to 24 years,Sleeping,Male,2005-15 to 24 years-Male,15 to 24 years,2005,Male,14180,14860,21420
+58,2005,Annual,8.88,0.154,Nonholiday weekdays,15 to 24 years,Sleeping,Male,2005-15 to 24 years-Male,15 to 24 years,2005,Male,14180,14860,21420
+59,2005,Annual,9.96,0.164,Weekend days and holidays,15 to 24 years,Sleeping,Male,2005-15 to 24 years-Male,15 to 24 years,2005,Male,14180,14860,21420
+60,2006,Annual,9.21,0.108,All days,15 to 24 years,Sleeping,Male,2006-15 to 24 years-Male,15 to 24 years,2006,Male,14090,15210,21310
+61,2006,Annual,8.93,0.133,Nonholiday weekdays,15 to 24 years,Sleeping,Male,2006-15 to 24 years-Male,15 to 24 years,2006,Male,14090,15210,21310
+62,2006,Annual,9.88,0.18,Weekend days and holidays,15 to 24 years,Sleeping,Male,2006-15 to 24 years-Male,15 to 24 years,2006,Male,14090,15210,21310
+63,2007,Annual,9.03,0.125,All days,15 to 24 years,Sleeping,Male,2007-15 to 24 years-Male,15 to 24 years,2007,Male,14140,15240,20810
+64,2007,Annual,8.58,0.163,Nonholiday weekdays,15 to 24 years,Sleeping,Male,2007-15 to 24 years-Male,15 to 24 years,2007,Male,14140,15240,20810
+65,2007,Annual,9.99,0.182,Weekend days and holidays,15 to 24 years,Sleeping,Male,2007-15 to 24 years-Male,15 to 24 years,2007,Male,14140,15240,20810
+66,2008,Annual,9.27,0.122,All days,15 to 24 years,Sleeping,Male,2008-15 to 24 years-Male,15 to 24 years,2008,Male,13780,15520,20450
+67,2008,Annual,8.9,0.153,Nonholiday weekdays,15 to 24 years,Sleeping,Male,2008-15 to 24 years-Male,15 to 24 years,2008,Male,13780,15520,20450
+68,2008,Annual,10.13,0.18,Weekend days and holidays,15 to 24 years,Sleeping,Male,2008-15 to 24 years-Male,15 to 24 years,2008,Male,13780,15520,20450
+69,2009,Annual,9.56,0.136,All days,15 to 24 years,Sleeping,Male,2009-15 to 24 years-Male,15 to 24 years,2009,Male,13280,14860,19660
+70,2009,Annual,9.25,0.177,Nonholiday weekdays,15 to 24 years,Sleeping,Male,2009-15 to 24 years-Male,15 to 24 years,2009,Male,13280,14860,19660
+71,2009,Annual,10.31,0.149,Weekend days and holidays,15 to 24 years,Sleeping,Male,2009-15 to 24 years-Male,15 to 24 years,2009,Male,13280,14860,19660
+72,2010,Annual,9.21,0.117,All days,15 to 24 years,Sleeping,Male,2010-15 to 24 years-Male,15 to 24 years,2010,Male,12950,14830,19350
+73,2010,Annual,8.88,0.159,Nonholiday weekdays,15 to 24 years,Sleeping,Male,2010-15 to 24 years-Male,15 to 24 years,2010,Male,12950,14830,19350
+74,2010,Annual,9.99,0.148,Weekend days and holidays,15 to 24 years,Sleeping,Male,2010-15 to 24 years-Male,15 to 24 years,2010,Male,12950,14830,19350
+75,2011,Annual,9.33,0.107,All days,15 to 24 years,Sleeping,Male,2011-15 to 24 years-Male,15 to 24 years,2011,Male,13090,14970,18950
+76,2011,Annual,9.01,0.136,Nonholiday weekdays,15 to 24 years,Sleeping,Male,2011-15 to 24 years-Male,15 to 24 years,2011,Male,13090,14970,18950
+77,2011,Annual,10.11,0.187,Weekend days and holidays,15 to 24 years,Sleeping,Male,2011-15 to 24 years-Male,15 to 24 years,2011,Male,13090,14970,18950
+78,2012,Annual,9.16,0.118,All days,15 to 24 years,Sleeping,Male,2012-15 to 24 years-Male,15 to 24 years,2012,Male,13270,15580,19340
+79,2012,Annual,8.68,0.158,Nonholiday weekdays,15 to 24 years,Sleeping,Male,2012-15 to 24 years-Male,15 to 24 years,2012,Male,13270,15580,19340
+80,2012,Annual,10.24,0.153,Weekend days and holidays,15 to 24 years,Sleeping,Male,2012-15 to 24 years-Male,15 to 24 years,2012,Male,13270,15580,19340
+81,2013,Annual,9.3,0.14,All days,15 to 24 years,Sleeping,Male,2013-15 to 24 years-Male,15 to 24 years,2013,Male,14020,18010,22090
+82,2013,Annual,9.3,0.14,All days,15 to 24 years,Sleeping,Male,2013-15 to 24 years-Male,15 to 24 years,2013,Male,13450,17260,21180
+83,2013,Annual,8.93,0.164,Nonholiday weekdays,15 to 24 years,Sleeping,Male,2013-15 to 24 years-Male,15 to 24 years,2013,Male,14020,18010,22090
+84,2013,Annual,8.93,0.164,Nonholiday weekdays,15 to 24 years,Sleeping,Male,2013-15 to 24 years-Male,15 to 24 years,2013,Male,13450,17260,21180
+85,2013,Annual,10.18,0.228,Weekend days and holidays,15 to 24 years,Sleeping,Male,2013-15 to 24 years-Male,15 to 24 years,2013,Male,14020,18010,22090
+86,2013,Annual,10.18,0.228,Weekend days and holidays,15 to 24 years,Sleeping,Male,2013-15 to 24 years-Male,15 to 24 years,2013,Male,13450,17260,21180
+87,2014,Annual,9.47,0.118,All days,15 to 24 years,Sleeping,Male,2014-15 to 24 years-Male,15 to 24 years,2014,Male,13620,17790,21520
+88,2014,Annual,9.33,0.158,Nonholiday weekdays,15 to 24 years,Sleeping,Male,2014-15 to 24 years-Male,15 to 24 years,2014,Male,13620,17790,21520
+89,2014,Annual,9.8,0.134,Weekend days and holidays,15 to 24 years,Sleeping,Male,2014-15 to 24 years-Male,15 to 24 years,2014,Male,13620,17790,21520
+90,2015,Annual,9.51,0.162,All days,15 to 24 years,Sleeping,Male,2015-15 to 24 years-Male,15 to 24 years,2015,Male,13960,17400,21060
+91,2015,Annual,9.35,0.214,Nonholiday weekdays,15 to 24 years,Sleeping,Male,2015-15 to 24 years-Male,15 to 24 years,2015,Male,13960,17400,21060
+92,2015,Annual,9.9,0.217,Weekend days and holidays,15 to 24 years,Sleeping,Male,2015-15 to 24 years-Male,15 to 24 years,2015,Male,13960,17400,21060
+93,2016,Annual,9.59,0.15,All days,15 to 24 years,Sleeping,Male,2016-15 to 24 years-Male,15 to 24 years,2016,Male,13790,19840,23800
+94,2016,Annual,9.14,0.189,Nonholiday weekdays,15 to 24 years,Sleeping,Male,2016-15 to 24 years-Male,15 to 24 years,2016,Male,13790,19840,23800
+95,2016,Annual,10.65,0.189,Weekend days and holidays,15 to 24 years,Sleeping,Male,2016-15 to 24 years-Male,15 to 24 years,2016,Male,13790,19840,23800
+96,2017,Annual,9.78,0.133,All days,15 to 24 years,Sleeping,Male,2017-15 to 24 years-Male,15 to 24 years,2017,Male,13670,19390,22860
+97,2017,Annual,9.78,0.133,All days,15 to 24 years,Sleeping,Male,2017-15 to 24 years-Male,15 to 24 years,2017,Male,13810,20480,24150
+98,2017,Annual,9.46,0.184,Nonholiday weekdays,15 to 24 years,Sleeping,Male,2017-15 to 24 years-Male,15 to 24 years,2017,Male,13670,19390,22860
+99,2017,Annual,9.46,0.184,Nonholiday weekdays,15 to 24 years,Sleeping,Male,2017-15 to 24 years-Male,15 to 24 years,2017,Male,13810,20480,24150
+100,2017,Annual,10.46,0.163,Weekend days and holidays,15 to 24 years,Sleeping,Male,2017-15 to 24 years-Male,15 to 24 years,2017,Male,13670,19390,22860
+101,2017,Annual,10.46,0.163,Weekend days and holidays,15 to 24 years,Sleeping,Male,2017-15 to 24 years-Male,15 to 24 years,2017,Male,13810,20480,24150
+102,2003,Annual,8.3,0.066,All days,25 to 34 years,Sleeping,Male,2003-25 to 34 years-Male,25 to 34 years,2003,Male,18680,37170,56520
+103,2003,Annual,7.91,0.079,Nonholiday weekdays,25 to 34 years,Sleeping,Male,2003-25 to 34 years-Male,25 to 34 years,2003,Male,18680,37170,56520
+104,2003,Annual,9.23,0.106,Weekend days and holidays,25 to 34 years,Sleeping,Male,2003-25 to 34 years-Male,25 to 34 years,2003,Male,18680,37170,56520
+105,2004,Annual,8.42,0.118,All days,25 to 34 years,Sleeping,Male,2004-25 to 34 years-Male,25 to 34 years,2004,Male,18730,37360,55410
+106,2004,Annual,8,0.157,Nonholiday weekdays,25 to 34 years,Sleeping,Male,2004-25 to 34 years-Male,25 to 34 years,2004,Male,18730,37360,55410
+107,2004,Annual,9.38,0.118,Weekend days and holidays,25 to 34 years,Sleeping,Male,2004-25 to 34 years-Male,25 to 34 years,2004,Male,18730,37360,55410
+108,2005,Annual,8.44,0.092,All days,25 to 34 years,Sleeping,Male,2005-25 to 34 years-Male,25 to 34 years,2005,Male,18900,38510,55510
+109,2005,Annual,8.01,0.114,Nonholiday weekdays,25 to 34 years,Sleeping,Male,2005-25 to 34 years-Male,25 to 34 years,2005,Male,18900,38510,55510
+110,2005,Annual,9.46,0.163,Weekend days and holidays,25 to 34 years,Sleeping,Male,2005-25 to 34 years-Male,25 to 34 years,2005,Male,18900,38510,55510
+111,2006,Annual,8.4,0.096,All days,25 to 34 years,Sleeping,Male,2006-25 to 34 years-Male,25 to 34 years,2006,Male,19050,40840,57210
+112,2006,Annual,7.94,0.121,Nonholiday weekdays,25 to 34 years,Sleeping,Male,2006-25 to 34 years-Male,25 to 34 years,2006,Male,19050,40840,57210
+113,2006,Annual,9.5,0.117,Weekend days and holidays,25 to 34 years,Sleeping,Male,2006-25 to 34 years-Male,25 to 34 years,2006,Male,19050,40840,57210
+114,2007,Annual,8.45,0.108,All days,25 to 34 years,Sleeping,Male,2007-25 to 34 years-Male,25 to 34 years,2007,Male,19020,41520,56710
+115,2007,Annual,8.02,0.143,Nonholiday weekdays,25 to 34 years,Sleeping,Male,2007-25 to 34 years-Male,25 to 34 years,2007,Male,19020,41520,56710
+116,2007,Annual,9.43,0.138,Weekend days and holidays,25 to 34 years,Sleeping,Male,2007-25 to 34 years-Male,25 to 34 years,2007,Male,19020,41520,56710
+117,2008,Annual,8.48,0.093,All days,25 to 34 years,Sleeping,Male,2008-25 to 34 years-Male,25 to 34 years,2008,Male,19320,41760,55020
+118,2008,Annual,8.13,0.12,Nonholiday weekdays,25 to 34 years,Sleeping,Male,2008-25 to 34 years-Male,25 to 34 years,2008,Male,19320,41760,55020
+119,2008,Annual,9.32,0.149,Weekend days and holidays,25 to 34 years,Sleeping,Male,2008-25 to 34 years-Male,25 to 34 years,2008,Male,19320,41760,55020
+120,2009,Annual,8.48,0.103,All days,25 to 34 years,Sleeping,Male,2009-25 to 34 years-Male,25 to 34 years,2009,Male,19280,40350,53370
+121,2009,Annual,8.13,0.133,Nonholiday weekdays,25 to 34 years,Sleeping,Male,2009-25 to 34 years-Male,25 to 34 years,2009,Male,19280,40350,53370
+122,2009,Annual,9.34,0.133,Weekend days and holidays,25 to 34 years,Sleeping,Male,2009-25 to 34 years-Male,25 to 34 years,2009,Male,19280,40350,53370
+123,2010,Annual,8.28,0.097,All days,25 to 34 years,Sleeping,Male,2010-25 to 34 years-Male,25 to 34 years,2010,Male,18810,39850,52000
+124,2010,Annual,7.91,0.117,Nonholiday weekdays,25 to 34 years,Sleeping,Male,2010-25 to 34 years-Male,25 to 34 years,2010,Male,18810,39850,52000
+125,2010,Annual,9.17,0.136,Weekend days and holidays,25 to 34 years,Sleeping,Male,2010-25 to 34 years-Male,25 to 34 years,2010,Male,18810,39850,52000
+126,2011,Annual,8.37,0.1,All days,25 to 34 years,Sleeping,Male,2011-25 to 34 years-Male,25 to 34 years,2011,Male,18880,41460,52480
+127,2011,Annual,7.94,0.131,Nonholiday weekdays,25 to 34 years,Sleeping,Male,2011-25 to 34 years-Male,25 to 34 years,2011,Male,18880,41460,52480
+128,2011,Annual,9.34,0.171,Weekend days and holidays,25 to 34 years,Sleeping,Male,2011-25 to 34 years-Male,25 to 34 years,2011,Male,18880,41460,52480
+129,2012,Annual,8.55,0.093,All days,25 to 34 years,Sleeping,Male,2012-25 to 34 years-Male,25 to 34 years,2012,Male,19180,43070,53470
+130,2012,Annual,8.25,0.118,Nonholiday weekdays,25 to 34 years,Sleeping,Male,2012-25 to 34 years-Male,25 to 34 years,2012,Male,19180,43070,53470
+131,2012,Annual,9.28,0.13,Weekend days and holidays,25 to 34 years,Sleeping,Male,2012-25 to 34 years-Male,25 to 34 years,2012,Male,19180,43070,53470
+132,2013,Annual,8.45,0.104,All days,25 to 34 years,Sleeping,Male,2013-25 to 34 years-Male,25 to 34 years,2013,Male,19840,45150,55390
+133,2013,Annual,8.45,0.104,All days,25 to 34 years,Sleeping,Male,2013-25 to 34 years-Male,25 to 34 years,2013,Male,19600,43410,53260
+134,2013,Annual,8.12,0.137,Nonholiday weekdays,25 to 34 years,Sleeping,Male,2013-25 to 34 years-Male,25 to 34 years,2013,Male,19840,45150,55390
+135,2013,Annual,8.12,0.137,Nonholiday weekdays,25 to 34 years,Sleeping,Male,2013-25 to 34 years-Male,25 to 34 years,2013,Male,19600,43410,53260
+136,2013,Annual,9.22,0.13,Weekend days and holidays,25 to 34 years,Sleeping,Male,2013-25 to 34 years-Male,25 to 34 years,2013,Male,19840,45150,55390
+137,2013,Annual,9.22,0.13,Weekend days and holidays,25 to 34 years,Sleeping,Male,2013-25 to 34 years-Male,25 to 34 years,2013,Male,19600,43410,53260
+138,2014,Annual,8.62,0.1,All days,25 to 34 years,Sleeping,Male,2014-25 to 34 years-Male,25 to 34 years,2014,Male,19850,45870,55480
+139,2014,Annual,8.31,0.127,Nonholiday weekdays,25 to 34 years,Sleeping,Male,2014-25 to 34 years-Male,25 to 34 years,2014,Male,19850,45870,55480
+140,2014,Annual,9.32,0.135,Weekend days and holidays,25 to 34 years,Sleeping,Male,2014-25 to 34 years-Male,25 to 34 years,2014,Male,19850,45870,55480
+141,2015,Annual,8.79,0.122,All days,25 to 34 years,Sleeping,Male,2015-25 to 34 years-Male,25 to 34 years,2015,Male,20330,48520,58730
+142,2015,Annual,8.55,0.154,Nonholiday weekdays,25 to 34 years,Sleeping,Male,2015-25 to 34 years-Male,25 to 34 years,2015,Male,20330,48520,58730
+143,2015,Annual,9.33,0.151,Weekend days and holidays,25 to 34 years,Sleeping,Male,2015-25 to 34 years-Male,25 to 34 years,2015,Male,20330,48520,58730
+144,2016,Annual,8.54,0.101,All days,25 to 34 years,Sleeping,Male,2016-25 to 34 years-Male,25 to 34 years,2016,Male,20710,49330,59190
+145,2016,Annual,8.17,0.128,Nonholiday weekdays,25 to 34 years,Sleeping,Male,2016-25 to 34 years-Male,25 to 34 years,2016,Male,20710,49330,59190
+146,2016,Annual,9.45,0.118,Weekend days and holidays,25 to 34 years,Sleeping,Male,2016-25 to 34 years-Male,25 to 34 years,2016,Male,20710,49330,59190
+147,2017,Annual,8.47,0.116,All days,25 to 34 years,Sleeping,Male,2017-25 to 34 years-Male,25 to 34 years,2017,Male,21010,51070,60220
+148,2017,Annual,8.47,0.116,All days,25 to 34 years,Sleeping,Male,2017-25 to 34 years-Male,25 to 34 years,2017,Male,20980,52340,61720
+149,2017,Annual,8.02,0.157,Nonholiday weekdays,25 to 34 years,Sleeping,Male,2017-25 to 34 years-Male,25 to 34 years,2017,Male,21010,51070,60220
+150,2017,Annual,8.02,0.157,Nonholiday weekdays,25 to 34 years,Sleeping,Male,2017-25 to 34 years-Male,25 to 34 years,2017,Male,20980,52340,61720
+151,2017,Annual,9.45,0.148,Weekend days and holidays,25 to 34 years,Sleeping,Male,2017-25 to 34 years-Male,25 to 34 years,2017,Male,21010,51070,60220
+152,2017,Annual,9.45,0.148,Weekend days and holidays,25 to 34 years,Sleeping,Male,2017-25 to 34 years-Male,25 to 34 years,2017,Male,20980,52340,61720
+153,2003,Annual,8.2,0.059,All days,35 to 44 years,Sleeping,Male,2003-35 to 44 years-Male,35 to 44 years,2003,Male,19420,55310,84090
+154,2003,Annual,7.86,0.075,Nonholiday weekdays,35 to 44 years,Sleeping,Male,2003-35 to 44 years-Male,35 to 44 years,2003,Male,19420,55310,84090
+155,2003,Annual,9,0.07,Weekend days and holidays,35 to 44 years,Sleeping,Male,2003-35 to 44 years-Male,35 to 44 years,2003,Male,19420,55310,84090
+156,2004,Annual,8.2,0.085,All days,35 to 44 years,Sleeping,Male,2004-35 to 44 years-Male,35 to 44 years,2004,Male,19800,56920,84420
+157,2004,Annual,7.88,0.111,Nonholiday weekdays,35 to 44 years,Sleeping,Male,2004-35 to 44 years-Male,35 to 44 years,2004,Male,19800,56920,84420
+158,2004,Annual,8.99,0.099,Weekend days and holidays,35 to 44 years,Sleeping,Male,2004-35 to 44 years-Male,35 to 44 years,2004,Male,19800,56920,84420
+159,2005,Annual,8.36,0.068,All days,35 to 44 years,Sleeping,Male,2005-35 to 44 years-Male,35 to 44 years,2005,Male,20150,60990,87920
+160,2005,Annual,8.03,0.096,Nonholiday weekdays,35 to 44 years,Sleeping,Male,2005-35 to 44 years-Male,35 to 44 years,2005,Male,20150,60990,87920
+161,2005,Annual,9.16,0.1,Weekend days and holidays,35 to 44 years,Sleeping,Male,2005-35 to 44 years-Male,35 to 44 years,2005,Male,20150,60990,87920
+162,2006,Annual,8.28,0.078,All days,35 to 44 years,Sleeping,Male,2006-35 to 44 years-Male,35 to 44 years,2006,Male,20430,62290,87270
+163,2006,Annual,7.95,0.102,Nonholiday weekdays,35 to 44 years,Sleeping,Male,2006-35 to 44 years-Male,35 to 44 years,2006,Male,20430,62290,87270
+164,2006,Annual,9.05,0.099,Weekend days and holidays,35 to 44 years,Sleeping,Male,2006-35 to 44 years-Male,35 to 44 years,2006,Male,20430,62290,87270
+165,2007,Annual,8.28,0.079,All days,35 to 44 years,Sleeping,Male,2007-35 to 44 years-Male,35 to 44 years,2007,Male,20680,60800,83050
+166,2007,Annual,7.98,0.105,Nonholiday weekdays,35 to 44 years,Sleeping,Male,2007-35 to 44 years-Male,35 to 44 years,2007,Male,20680,60800,83050
+167,2007,Annual,9,0.101,Weekend days and holidays,35 to 44 years,Sleeping,Male,2007-35 to 44 years-Male,35 to 44 years,2007,Male,20680,60800,83050
+168,2008,Annual,8.31,0.07,All days,35 to 44 years,Sleeping,Male,2008-35 to 44 years-Male,35 to 44 years,2008,Male,20800,62340,82130
+169,2008,Annual,7.99,0.09,Nonholiday weekdays,35 to 44 years,Sleeping,Male,2008-35 to 44 years-Male,35 to 44 years,2008,Male,20800,62340,82130
+170,2008,Annual,9.06,0.128,Weekend days and holidays,35 to 44 years,Sleeping,Male,2008-35 to 44 years-Male,35 to 44 years,2008,Male,20800,62340,82130
+171,2009,Annual,8.28,0.071,All days,35 to 44 years,Sleeping,Male,2009-35 to 44 years-Male,35 to 44 years,2009,Male,20720,60760,80370
+172,2009,Annual,7.93,0.092,Nonholiday weekdays,35 to 44 years,Sleeping,Male,2009-35 to 44 years-Male,35 to 44 years,2009,Male,20720,60760,80370
+173,2009,Annual,9.08,0.097,Weekend days and holidays,35 to 44 years,Sleeping,Male,2009-35 to 44 years-Male,35 to 44 years,2009,Male,20720,60760,80370
+174,2010,Annual,8.29,0.076,All days,35 to 44 years,Sleeping,Male,2010-35 to 44 years-Male,35 to 44 years,2010,Male,20430,60710,79230
+175,2010,Annual,7.96,0.097,Nonholiday weekdays,35 to 44 years,Sleeping,Male,2010-35 to 44 years-Male,35 to 44 years,2010,Male,20430,60710,79230
+176,2010,Annual,9.11,0.118,Weekend days and holidays,35 to 44 years,Sleeping,Male,2010-35 to 44 years-Male,35 to 44 years,2010,Male,20430,60710,79230
+177,2011,Annual,8.35,0.077,All days,35 to 44 years,Sleeping,Male,2011-35 to 44 years-Male,35 to 44 years,2011,Male,20320,63970,80960
+178,2011,Annual,8,0.107,Nonholiday weekdays,35 to 44 years,Sleeping,Male,2011-35 to 44 years-Male,35 to 44 years,2011,Male,20320,63970,80960
+179,2011,Annual,9.17,0.111,Weekend days and holidays,35 to 44 years,Sleeping,Male,2011-35 to 44 years-Male,35 to 44 years,2011,Male,20320,63970,80960
+180,2012,Annual,8.33,0.076,All days,35 to 44 years,Sleeping,Male,2012-35 to 44 years-Male,35 to 44 years,2012,Male,20180,64400,79960
+181,2012,Annual,8.01,0.102,Nonholiday weekdays,35 to 44 years,Sleeping,Male,2012-35 to 44 years-Male,35 to 44 years,2012,Male,20180,64400,79960
+182,2012,Annual,9.09,0.107,Weekend days and holidays,35 to 44 years,Sleeping,Male,2012-35 to 44 years-Male,35 to 44 years,2012,Male,20180,64400,79960
+183,2013,Annual,8.37,0.068,All days,35 to 44 years,Sleeping,Male,2013-35 to 44 years-Male,35 to 44 years,2013,Male,19980,67770,83140
+184,2013,Annual,8.37,0.068,All days,35 to 44 years,Sleeping,Male,2013-35 to 44 years-Male,35 to 44 years,2013,Male,19840,66530,81620
+185,2013,Annual,8.01,0.087,Nonholiday weekdays,35 to 44 years,Sleeping,Male,2013-35 to 44 years-Male,35 to 44 years,2013,Male,19980,67770,83140
+186,2013,Annual,8.01,0.087,Nonholiday weekdays,35 to 44 years,Sleeping,Male,2013-35 to 44 years-Male,35 to 44 years,2013,Male,19840,66530,81620
+187,2013,Annual,9.21,0.113,Weekend days and holidays,35 to 44 years,Sleeping,Male,2013-35 to 44 years-Male,35 to 44 years,2013,Male,19980,67770,83140
+188,2013,Annual,9.21,0.113,Weekend days and holidays,35 to 44 years,Sleeping,Male,2013-35 to 44 years-Male,35 to 44 years,2013,Male,19840,66530,81620
+189,2014,Annual,8.19,0.086,All days,35 to 44 years,Sleeping,Male,2014-35 to 44 years-Male,35 to 44 years,2014,Male,19880,70360,85110
+190,2014,Annual,7.78,0.102,Nonholiday weekdays,35 to 44 years,Sleeping,Male,2014-35 to 44 years-Male,35 to 44 years,2014,Male,19880,70360,85110
+191,2014,Annual,9.16,0.118,Weekend days and holidays,35 to 44 years,Sleeping,Male,2014-35 to 44 years-Male,35 to 44 years,2014,Male,19880,70360,85110
+192,2015,Annual,8.67,0.123,All days,35 to 44 years,Sleeping,Male,2015-35 to 44 years-Male,35 to 44 years,2015,Male,19790,71500,86550
+193,2015,Annual,8.33,0.162,Nonholiday weekdays,35 to 44 years,Sleeping,Male,2015-35 to 44 years-Male,35 to 44 years,2015,Male,19790,71500,86550
+194,2015,Annual,9.48,0.127,Weekend days and holidays,35 to 44 years,Sleeping,Male,2015-35 to 44 years-Male,35 to 44 years,2015,Male,19790,71500,86550
+195,2016,Annual,8.41,0.107,All days,35 to 44 years,Sleeping,Male,2016-35 to 44 years-Male,35 to 44 years,2016,Male,19520,75010,90000
+196,2016,Annual,8.06,0.153,Nonholiday weekdays,35 to 44 years,Sleeping,Male,2016-35 to 44 years-Male,35 to 44 years,2016,Male,19520,75010,90000
+197,2016,Annual,9.27,0.135,Weekend days and holidays,35 to 44 years,Sleeping,Male,2016-35 to 44 years-Male,35 to 44 years,2016,Male,19520,75010,90000
+198,2017,Annual,8.36,0.097,All days,35 to 44 years,Sleeping,Male,2017-35 to 44 years-Male,35 to 44 years,2017,Male,19430,75160,88620
+199,2017,Annual,8.36,0.097,All days,35 to 44 years,Sleeping,Male,2017-35 to 44 years-Male,35 to 44 years,2017,Male,19390,74950,88380
+200,2017,Annual,7.97,0.126,Nonholiday weekdays,35 to 44 years,Sleeping,Male,2017-35 to 44 years-Male,35 to 44 years,2017,Male,19430,75160,88620
+201,2017,Annual,7.97,0.126,Nonholiday weekdays,35 to 44 years,Sleeping,Male,2017-35 to 44 years-Male,35 to 44 years,2017,Male,19390,74950,88380
+202,2017,Annual,9.28,0.128,Weekend days and holidays,35 to 44 years,Sleeping,Male,2017-35 to 44 years-Male,35 to 44 years,2017,Male,19430,75160,88620
+203,2017,Annual,9.28,0.128,Weekend days and holidays,35 to 44 years,Sleeping,Male,2017-35 to 44 years-Male,35 to 44 years,2017,Male,19390,74950,88380
+204,2003,Annual,8.08,0.056,All days,45 to 54 years,Sleeping,Male,2003-45 to 54 years-Male,45 to 54 years,2003,Male,19420,55310,84090
+205,2003,Annual,7.76,0.074,Nonholiday weekdays,45 to 54 years,Sleeping,Male,2003-45 to 54 years-Male,45 to 54 years,2003,Male,19420,55310,84090
+206,2003,Annual,8.82,0.09,Weekend days and holidays,45 to 54 years,Sleeping,Male,2003-45 to 54 years-Male,45 to 54 years,2003,Male,19420,55310,84090
+207,2004,Annual,8.11,0.082,All days,45 to 54 years,Sleeping,Male,2004-45 to 54 years-Male,45 to 54 years,2004,Male,19800,56920,84420
+208,2004,Annual,7.83,0.109,Nonholiday weekdays,45 to 54 years,Sleeping,Male,2004-45 to 54 years-Male,45 to 54 years,2004,Male,19800,56920,84420
+209,2004,Annual,8.75,0.099,Weekend days and holidays,45 to 54 years,Sleeping,Male,2004-45 to 54 years-Male,45 to 54 years,2004,Male,19800,56920,84420
+210,2005,Annual,8.03,0.08,All days,45 to 54 years,Sleeping,Male,2005-45 to 54 years-Male,45 to 54 years,2005,Male,20150,60990,87920
+211,2005,Annual,7.72,0.102,Nonholiday weekdays,45 to 54 years,Sleeping,Male,2005-45 to 54 years-Male,45 to 54 years,2005,Male,20150,60990,87920
+212,2005,Annual,8.81,0.119,Weekend days and holidays,45 to 54 years,Sleeping,Male,2005-45 to 54 years-Male,45 to 54 years,2005,Male,20150,60990,87920
+213,2006,Annual,8.2,0.082,All days,45 to 54 years,Sleeping,Male,2006-45 to 54 years-Male,45 to 54 years,2006,Male,20430,62290,87270
+214,2006,Annual,7.87,0.108,Nonholiday weekdays,45 to 54 years,Sleeping,Male,2006-45 to 54 years-Male,45 to 54 years,2006,Male,20430,62290,87270
+215,2006,Annual,8.95,0.129,Weekend days and holidays,45 to 54 years,Sleeping,Male,2006-45 to 54 years-Male,45 to 54 years,2006,Male,20430,62290,87270
+216,2007,Annual,8.18,0.086,All days,45 to 54 years,Sleeping,Male,2007-45 to 54 years-Male,45 to 54 years,2007,Male,20680,60800,83050
+217,2007,Annual,7.85,0.103,Nonholiday weekdays,45 to 54 years,Sleeping,Male,2007-45 to 54 years-Male,45 to 54 years,2007,Male,20680,60800,83050
+218,2007,Annual,8.95,0.137,Weekend days and holidays,45 to 54 years,Sleeping,Male,2007-45 to 54 years-Male,45 to 54 years,2007,Male,20680,60800,83050
+219,2008,Annual,8.16,0.076,All days,45 to 54 years,Sleeping,Male,2008-45 to 54 years-Male,45 to 54 years,2008,Male,20800,62340,82130
+220,2008,Annual,7.81,0.1,Nonholiday weekdays,45 to 54 years,Sleeping,Male,2008-45 to 54 years-Male,45 to 54 years,2008,Male,20800,62340,82130
+221,2008,Annual,8.97,0.095,Weekend days and holidays,45 to 54 years,Sleeping,Male,2008-45 to 54 years-Male,45 to 54 years,2008,Male,20800,62340,82130
+222,2009,Annual,8.17,0.064,All days,45 to 54 years,Sleeping,Male,2009-45 to 54 years-Male,45 to 54 years,2009,Male,20720,60760,80370
+223,2009,Annual,7.82,0.08,Nonholiday weekdays,45 to 54 years,Sleeping,Male,2009-45 to 54 years-Male,45 to 54 years,2009,Male,20720,60760,80370
+224,2009,Annual,8.93,0.121,Weekend days and holidays,45 to 54 years,Sleeping,Male,2009-45 to 54 years-Male,45 to 54 years,2009,Male,20720,60760,80370
+225,2010,Annual,8.15,0.072,All days,45 to 54 years,Sleeping,Male,2010-45 to 54 years-Male,45 to 54 years,2010,Male,20430,60710,79230
+226,2010,Annual,7.79,0.101,Nonholiday weekdays,45 to 54 years,Sleeping,Male,2010-45 to 54 years-Male,45 to 54 years,2010,Male,20430,60710,79230
+227,2010,Annual,9.02,0.099,Weekend days and holidays,45 to 54 years,Sleeping,Male,2010-45 to 54 years-Male,45 to 54 years,2010,Male,20430,60710,79230
+228,2011,Annual,8.23,0.072,All days,45 to 54 years,Sleeping,Male,2011-45 to 54 years-Male,45 to 54 years,2011,Male,20320,63970,80960
+229,2011,Annual,7.95,0.091,Nonholiday weekdays,45 to 54 years,Sleeping,Male,2011-45 to 54 years-Male,45 to 54 years,2011,Male,20320,63970,80960
+230,2011,Annual,8.89,0.102,Weekend days and holidays,45 to 54 years,Sleeping,Male,2011-45 to 54 years-Male,45 to 54 years,2011,Male,20320,63970,80960
+231,2012,Annual,8.38,0.086,All days,45 to 54 years,Sleeping,Male,2012-45 to 54 years-Male,45 to 54 years,2012,Male,20180,64400,79960
+232,2012,Annual,8.03,0.095,Nonholiday weekdays,45 to 54 years,Sleeping,Male,2012-45 to 54 years-Male,45 to 54 years,2012,Male,20180,64400,79960
+233,2012,Annual,9.19,0.151,Weekend days and holidays,45 to 54 years,Sleeping,Male,2012-45 to 54 years-Male,45 to 54 years,2012,Male,20180,64400,79960
+234,2013,Annual,8.4,0.083,All days,45 to 54 years,Sleeping,Male,2013-45 to 54 years-Male,45 to 54 years,2013,Male,19980,67770,83140
+235,2013,Annual,8.4,0.083,All days,45 to 54 years,Sleeping,Male,2013-45 to 54 years-Male,45 to 54 years,2013,Male,19840,66530,81620
+236,2013,Annual,8.15,0.106,Nonholiday weekdays,45 to 54 years,Sleeping,Male,2013-45 to 54 years-Male,45 to 54 years,2013,Male,19980,67770,83140
+237,2013,Annual,8.15,0.106,Nonholiday weekdays,45 to 54 years,Sleeping,Male,2013-45 to 54 years-Male,45 to 54 years,2013,Male,19840,66530,81620
+238,2013,Annual,8.98,0.112,Weekend days and holidays,45 to 54 years,Sleeping,Male,2013-45 to 54 years-Male,45 to 54 years,2013,Male,19980,67770,83140
+239,2013,Annual,8.98,0.112,Weekend days and holidays,45 to 54 years,Sleeping,Male,2013-45 to 54 years-Male,45 to 54 years,2013,Male,19840,66530,81620
+240,2014,Annual,8.46,0.082,All days,45 to 54 years,Sleeping,Male,2014-45 to 54 years-Male,45 to 54 years,2014,Male,19880,70360,85110
+241,2014,Annual,8.12,0.101,Nonholiday weekdays,45 to 54 years,Sleeping,Male,2014-45 to 54 years-Male,45 to 54 years,2014,Male,19880,70360,85110
+242,2014,Annual,9.25,0.116,Weekend days and holidays,45 to 54 years,Sleeping,Male,2014-45 to 54 years-Male,45 to 54 years,2014,Male,19880,70360,85110
+243,2015,Annual,8.22,0.08,All days,45 to 54 years,Sleeping,Male,2015-45 to 54 years-Male,45 to 54 years,2015,Male,19790,71500,86550
+244,2015,Annual,7.81,0.099,Nonholiday weekdays,45 to 54 years,Sleeping,Male,2015-45 to 54 years-Male,45 to 54 years,2015,Male,19790,71500,86550
+245,2015,Annual,9.24,0.131,Weekend days and holidays,45 to 54 years,Sleeping,Male,2015-45 to 54 years-Male,45 to 54 years,2015,Male,19790,71500,86550
+246,2016,Annual,8.17,0.079,All days,45 to 54 years,Sleeping,Male,2016-45 to 54 years-Male,45 to 54 years,2016,Male,19520,75010,90000
+247,2016,Annual,7.78,0.101,Nonholiday weekdays,45 to 54 years,Sleeping,Male,2016-45 to 54 years-Male,45 to 54 years,2016,Male,19520,75010,90000
+248,2016,Annual,9.1,0.128,Weekend days and holidays,45 to 54 years,Sleeping,Male,2016-45 to 54 years-Male,45 to 54 years,2016,Male,19520,75010,90000
+249,2017,Annual,8.47,0.109,All days,45 to 54 years,Sleeping,Male,2017-45 to 54 years-Male,45 to 54 years,2017,Male,19430,75160,88620
+250,2017,Annual,8.47,0.109,All days,45 to 54 years,Sleeping,Male,2017-45 to 54 years-Male,45 to 54 years,2017,Male,19390,74950,88380
+251,2017,Annual,8.23,0.15,Nonholiday weekdays,45 to 54 years,Sleeping,Male,2017-45 to 54 years-Male,45 to 54 years,2017,Male,19430,75160,88620
+252,2017,Annual,8.23,0.15,Nonholiday weekdays,45 to 54 years,Sleeping,Male,2017-45 to 54 years-Male,45 to 54 years,2017,Male,19390,74950,88380
+253,2017,Annual,9.07,0.119,Weekend days and holidays,45 to 54 years,Sleeping,Male,2017-45 to 54 years-Male,45 to 54 years,2017,Male,19430,75160,88620
+254,2017,Annual,9.07,0.119,Weekend days and holidays,45 to 54 years,Sleeping,Male,2017-45 to 54 years-Male,45 to 54 years,2017,Male,19390,74950,88380
+255,2003,Annual,8.32,0.068,All days,55 to 64 years,Sleeping,Male,2003-55 to 64 years-Male,55 to 64 years,2003,Male,13100,53880,81920
+256,2003,Annual,8.07,0.083,Nonholiday weekdays,55 to 64 years,Sleeping,Male,2003-55 to 64 years-Male,55 to 64 years,2003,Male,13100,53880,81920
+257,2003,Annual,8.91,0.103,Weekend days and holidays,55 to 64 years,Sleeping,Male,2003-55 to 64 years-Male,55 to 64 years,2003,Male,13100,53880,81920
+258,2004,Annual,8.3,0.076,All days,55 to 64 years,Sleeping,Male,2004-55 to 64 years-Male,55 to 64 years,2004,Male,13600,53950,80030
+259,2004,Annual,8.1,0.095,Nonholiday weekdays,55 to 64 years,Sleeping,Male,2004-55 to 64 years-Male,55 to 64 years,2004,Male,13600,53950,80030
+260,2004,Annual,8.78,0.095,Weekend days and holidays,55 to 64 years,Sleeping,Male,2004-55 to 64 years-Male,55 to 64 years,2004,Male,13600,53950,80030
+261,2005,Annual,8.2,0.077,All days,55 to 64 years,Sleeping,Male,2005-55 to 64 years-Male,55 to 64 years,2005,Male,14370,55860,80530
+262,2005,Annual,7.96,0.096,Nonholiday weekdays,55 to 64 years,Sleeping,Male,2005-55 to 64 years-Male,55 to 64 years,2005,Male,14370,55860,80530
+263,2005,Annual,8.77,0.125,Weekend days and holidays,55 to 64 years,Sleeping,Male,2005-55 to 64 years-Male,55 to 64 years,2005,Male,14370,55860,80530
+264,2006,Annual,8.32,0.095,All days,55 to 64 years,Sleeping,Male,2006-55 to 64 years-Male,55 to 64 years,2006,Male,14910,57220,80160
+265,2006,Annual,7.99,0.115,Nonholiday weekdays,55 to 64 years,Sleeping,Male,2006-55 to 64 years-Male,55 to 64 years,2006,Male,14910,57220,80160
+266,2006,Annual,9.1,0.158,Weekend days and holidays,55 to 64 years,Sleeping,Male,2006-55 to 64 years-Male,55 to 64 years,2006,Male,14910,57220,80160
+267,2007,Annual,8.32,0.088,All days,55 to 64 years,Sleeping,Male,2007-55 to 64 years-Male,55 to 64 years,2007,Male,15520,58800,80310
+268,2007,Annual,8.15,0.109,Nonholiday weekdays,55 to 64 years,Sleeping,Male,2007-55 to 64 years-Male,55 to 64 years,2007,Male,15520,58800,80310
+269,2007,Annual,8.7,0.133,Weekend days and holidays,55 to 64 years,Sleeping,Male,2007-55 to 64 years-Male,55 to 64 years,2007,Male,15520,58800,80310
+270,2008,Annual,8.24,0.071,All days,55 to 64 years,Sleeping,Male,2008-55 to 64 years-Male,55 to 64 years,2008,Male,15900,58950,77670
+271,2008,Annual,7.95,0.091,Nonholiday weekdays,55 to 64 years,Sleeping,Male,2008-55 to 64 years-Male,55 to 64 years,2008,Male,15900,58950,77670
+272,2008,Annual,8.91,0.108,Weekend days and holidays,55 to 64 years,Sleeping,Male,2008-55 to 64 years-Male,55 to 64 years,2008,Male,15900,58950,77670
+273,2009,Annual,8.37,0.084,All days,55 to 64 years,Sleeping,Male,2009-55 to 64 years-Male,55 to 64 years,2009,Male,16250,57850,76520
+274,2009,Annual,8.06,0.098,Nonholiday weekdays,55 to 64 years,Sleeping,Male,2009-55 to 64 years-Male,55 to 64 years,2009,Male,16250,57850,76520
+275,2009,Annual,9.09,0.129,Weekend days and holidays,55 to 64 years,Sleeping,Male,2009-55 to 64 years-Male,55 to 64 years,2009,Male,16250,57850,76520
+276,2010,Annual,8.51,0.077,All days,55 to 64 years,Sleeping,Male,2010-55 to 64 years-Male,55 to 64 years,2010,Male,17320,59260,77330
+277,2010,Annual,8.25,0.09,Nonholiday weekdays,55 to 64 years,Sleeping,Male,2010-55 to 64 years-Male,55 to 64 years,2010,Male,17320,59260,77330
+278,2010,Annual,9.14,0.133,Weekend days and holidays,55 to 64 years,Sleeping,Male,2010-55 to 64 years-Male,55 to 64 years,2010,Male,17320,59260,77330
+279,2011,Annual,8.4,0.076,All days,55 to 64 years,Sleeping,Male,2011-55 to 64 years-Male,55 to 64 years,2011,Male,17410,61160,77410
+280,2011,Annual,8.11,0.1,Nonholiday weekdays,55 to 64 years,Sleeping,Male,2011-55 to 64 years-Male,55 to 64 years,2011,Male,17410,61160,77410
+281,2011,Annual,9.07,0.133,Weekend days and holidays,55 to 64 years,Sleeping,Male,2011-55 to 64 years-Male,55 to 64 years,2011,Male,17410,61160,77410
+282,2012,Annual,8.31,0.093,All days,55 to 64 years,Sleeping,Male,2012-55 to 64 years-Male,55 to 64 years,2012,Male,17520,61410,76250
+283,2012,Annual,8.05,0.121,Nonholiday weekdays,55 to 64 years,Sleeping,Male,2012-55 to 64 years-Male,55 to 64 years,2012,Male,17520,61410,76250
+284,2012,Annual,8.92,0.161,Weekend days and holidays,55 to 64 years,Sleeping,Male,2012-55 to 64 years-Male,55 to 64 years,2012,Male,17520,61410,76250
+285,2013,Annual,8.52,0.084,All days,55 to 64 years,Sleeping,Male,2013-55 to 64 years-Male,55 to 64 years,2013,Male,17660,66160,81170
+286,2013,Annual,8.52,0.084,All days,55 to 64 years,Sleeping,Male,2013-55 to 64 years-Male,55 to 64 years,2013,Male,18120,61510,75460
+287,2013,Annual,8.36,0.12,Nonholiday weekdays,55 to 64 years,Sleeping,Male,2013-55 to 64 years-Male,55 to 64 years,2013,Male,17660,66160,81170
+288,2013,Annual,8.36,0.12,Nonholiday weekdays,55 to 64 years,Sleeping,Male,2013-55 to 64 years-Male,55 to 64 years,2013,Male,18120,61510,75460
+289,2013,Annual,8.91,0.096,Weekend days and holidays,55 to 64 years,Sleeping,Male,2013-55 to 64 years-Male,55 to 64 years,2013,Male,17660,66160,81170
+290,2013,Annual,8.91,0.096,Weekend days and holidays,55 to 64 years,Sleeping,Male,2013-55 to 64 years-Male,55 to 64 years,2013,Male,18120,61510,75460
+291,2014,Annual,8.35,0.068,All days,55 to 64 years,Sleeping,Male,2014-55 to 64 years-Male,55 to 64 years,2014,Male,18510,62670,75810
+292,2014,Annual,8.13,0.092,Nonholiday weekdays,55 to 64 years,Sleeping,Male,2014-55 to 64 years-Male,55 to 64 years,2014,Male,18510,62670,75810
+293,2014,Annual,8.88,0.103,Weekend days and holidays,55 to 64 years,Sleeping,Male,2014-55 to 64 years-Male,55 to 64 years,2014,Male,18510,62670,75810
+294,2015,Annual,8.38,0.087,All days,55 to 64 years,Sleeping,Male,2015-55 to 64 years-Male,55 to 64 years,2015,Male,18860,65660,79480
+295,2015,Annual,8.14,0.11,Nonholiday weekdays,55 to 64 years,Sleeping,Male,2015-55 to 64 years-Male,55 to 64 years,2015,Male,18860,65660,79480
+296,2015,Annual,8.93,0.124,Weekend days and holidays,55 to 64 years,Sleeping,Male,2015-55 to 64 years-Male,55 to 64 years,2015,Male,18860,65660,79480
+297,2016,Annual,8.45,0.106,All days,55 to 64 years,Sleeping,Male,2016-55 to 64 years-Male,55 to 64 years,2016,Male,18740,68230,81860
+298,2016,Annual,8.15,0.121,Nonholiday weekdays,55 to 64 years,Sleeping,Male,2016-55 to 64 years-Male,55 to 64 years,2016,Male,18740,68230,81860
+299,2016,Annual,9.14,0.169,Weekend days and holidays,55 to 64 years,Sleeping,Male,2016-55 to 64 years-Male,55 to 64 years,2016,Male,18740,68230,81860
+300,2017,Annual,8.3,0.086,All days,55 to 64 years,Sleeping,Male,2017-55 to 64 years-Male,55 to 64 years,2017,Male,18980,74850,88250
+301,2017,Annual,8.3,0.086,All days,55 to 64 years,Sleeping,Male,2017-55 to 64 years-Male,55 to 64 years,2017,Male,19010,72230,85160
+302,2017,Annual,8.01,0.101,Nonholiday weekdays,55 to 64 years,Sleeping,Male,2017-55 to 64 years-Male,55 to 64 years,2017,Male,18980,74850,88250
+303,2017,Annual,8.01,0.101,Nonholiday weekdays,55 to 64 years,Sleeping,Male,2017-55 to 64 years-Male,55 to 64 years,2017,Male,19010,72230,85160
+304,2017,Annual,9,0.12,Weekend days and holidays,55 to 64 years,Sleeping,Male,2017-55 to 64 years-Male,55 to 64 years,2017,Male,18980,74850,88250
+305,2017,Annual,9,0.12,Weekend days and holidays,55 to 64 years,Sleeping,Male,2017-55 to 64 years-Male,55 to 64 years,2017,Male,19010,72230,85160
+306,2003,Annual,8.89,0.066,All days,65 years and over,Sleeping,Male,2003-65 years and over-Male,65 years and over,2003,Male,14550,31630,48080
+307,2003,Annual,8.89,0.066,All days,65 years and over,Sleeping,Male,2003-65 years and over-Male,65 years and over,2003,Male,8230,36120,54910
+308,2003,Annual,8.89,0.066,All days,65 years and over,Sleeping,Male,2003-65 years and over-Male,65 years and over,2003,Male,6324,25780,39200
+309,2003,Annual,8.79,0.084,Nonholiday weekdays,65 years and over,Sleeping,Male,2003-65 years and over-Male,65 years and over,2003,Male,14550,31630,48080
+310,2003,Annual,8.79,0.084,Nonholiday weekdays,65 years and over,Sleeping,Male,2003-65 years and over-Male,65 years and over,2003,Male,8230,36120,54910
+311,2003,Annual,8.79,0.084,Nonholiday weekdays,65 years and over,Sleeping,Male,2003-65 years and over-Male,65 years and over,2003,Male,6324,25780,39200
+312,2003,Annual,9.12,0.082,Weekend days and holidays,65 years and over,Sleeping,Male,2003-65 years and over-Male,65 years and over,2003,Male,14550,31630,48080
+313,2003,Annual,9.12,0.082,Weekend days and holidays,65 years and over,Sleeping,Male,2003-65 years and over-Male,65 years and over,2003,Male,8230,36120,54910
+314,2003,Annual,9.12,0.082,Weekend days and holidays,65 years and over,Sleeping,Male,2003-65 years and over-Male,65 years and over,2003,Male,6324,25780,39200
+315,2004,Annual,8.76,0.067,All days,65 years and over,Sleeping,Male,2004-65 years and over-Male,65 years and over,2004,Male,14830,32720,48530
+316,2004,Annual,8.76,0.067,All days,65 years and over,Sleeping,Male,2004-65 years and over-Male,65 years and over,2004,Male,8281,37260,55270
+317,2004,Annual,8.76,0.067,All days,65 years and over,Sleeping,Male,2004-65 years and over-Male,65 years and over,2004,Male,6553,26980,40010
+318,2004,Annual,8.63,0.092,Nonholiday weekdays,65 years and over,Sleeping,Male,2004-65 years and over-Male,65 years and over,2004,Male,14830,32720,48530
+319,2004,Annual,8.63,0.092,Nonholiday weekdays,65 years and over,Sleeping,Male,2004-65 years and over-Male,65 years and over,2004,Male,8281,37260,55270
+320,2004,Annual,8.63,0.092,Nonholiday weekdays,65 years and over,Sleeping,Male,2004-65 years and over-Male,65 years and over,2004,Male,6553,26980,40010
+321,2004,Annual,9.07,0.096,Weekend days and holidays,65 years and over,Sleeping,Male,2004-65 years and over-Male,65 years and over,2004,Male,14830,32720,48530
+322,2004,Annual,9.07,0.096,Weekend days and holidays,65 years and over,Sleeping,Male,2004-65 years and over-Male,65 years and over,2004,Male,8281,37260,55270
+323,2004,Annual,9.07,0.096,Weekend days and holidays,65 years and over,Sleeping,Male,2004-65 years and over-Male,65 years and over,2004,Male,6553,26980,40010
+324,2005,Annual,8.98,0.098,All days,65 years and over,Sleeping,Male,2005-65 years and over-Male,65 years and over,2005,Male,14820,35730,51500
+325,2005,Annual,8.98,0.098,All days,65 years and over,Sleeping,Male,2005-65 years and over-Male,65 years and over,2005,Male,8318,40910,58970
+326,2005,Annual,8.98,0.098,All days,65 years and over,Sleeping,Male,2005-65 years and over-Male,65 years and over,2005,Male,6502,29100,41940
+327,2005,Annual,8.99,0.124,Nonholiday weekdays,65 years and over,Sleeping,Male,2005-65 years and over-Male,65 years and over,2005,Male,14820,35730,51500
+328,2005,Annual,8.99,0.124,Nonholiday weekdays,65 years and over,Sleeping,Male,2005-65 years and over-Male,65 years and over,2005,Male,8318,40910,58970
+329,2005,Annual,8.99,0.124,Nonholiday weekdays,65 years and over,Sleeping,Male,2005-65 years and over-Male,65 years and over,2005,Male,6502,29100,41940
+330,2005,Annual,8.97,0.118,Weekend days and holidays,65 years and over,Sleeping,Male,2005-65 years and over-Male,65 years and over,2005,Male,14820,35730,51500
+331,2005,Annual,8.97,0.118,Weekend days and holidays,65 years and over,Sleeping,Male,2005-65 years and over-Male,65 years and over,2005,Male,8318,40910,58970
+332,2005,Annual,8.97,0.118,Weekend days and holidays,65 years and over,Sleeping,Male,2005-65 years and over-Male,65 years and over,2005,Male,6502,29100,41940
+333,2006,Annual,9.03,0.081,All days,65 years and over,Sleeping,Male,2006-65 years and over-Male,65 years and over,2006,Male,15060,35610,49880
+334,2006,Annual,9.03,0.081,All days,65 years and over,Sleeping,Male,2006-65 years and over-Male,65 years and over,2006,Male,8517,39440,55240
+335,2006,Annual,9.03,0.081,All days,65 years and over,Sleeping,Male,2006-65 years and over-Male,65 years and over,2006,Male,6547,30620,42900
+336,2006,Annual,8.99,0.108,Nonholiday weekdays,65 years and over,Sleeping,Male,2006-65 years and over-Male,65 years and over,2006,Male,15060,35610,49880
+337,2006,Annual,8.99,0.108,Nonholiday weekdays,65 years and over,Sleeping,Male,2006-65 years and over-Male,65 years and over,2006,Male,8517,39440,55240
+338,2006,Annual,8.99,0.108,Nonholiday weekdays,65 years and over,Sleeping,Male,2006-65 years and over-Male,65 years and over,2006,Male,6547,30620,42900
+339,2006,Annual,9.12,0.104,Weekend days and holidays,65 years and over,Sleeping,Male,2006-65 years and over-Male,65 years and over,2006,Male,15060,35610,49880
+340,2006,Annual,9.12,0.104,Weekend days and holidays,65 years and over,Sleeping,Male,2006-65 years and over-Male,65 years and over,2006,Male,8517,39440,55240
+341,2006,Annual,9.12,0.104,Weekend days and holidays,65 years and over,Sleeping,Male,2006-65 years and over-Male,65 years and over,2006,Male,6547,30620,42900
+342,2007,Annual,8.91,0.102,All days,65 years and over,Sleeping,Male,2007-65 years and over-Male,65 years and over,2007,Male,15320,38470,52540
+343,2007,Annual,8.91,0.102,All days,65 years and over,Sleeping,Male,2007-65 years and over-Male,65 years and over,2007,Male,8714,43830,59870
+344,2007,Annual,8.91,0.102,All days,65 years and over,Sleeping,Male,2007-65 years and over-Male,65 years and over,2007,Male,6604,31390,42880
+345,2007,Annual,8.79,0.133,Nonholiday weekdays,65 years and over,Sleeping,Male,2007-65 years and over-Male,65 years and over,2007,Male,15320,38470,52540
+346,2007,Annual,8.79,0.133,Nonholiday weekdays,65 years and over,Sleeping,Male,2007-65 years and over-Male,65 years and over,2007,Male,8714,43830,59870
+347,2007,Annual,8.79,0.133,Nonholiday weekdays,65 years and over,Sleeping,Male,2007-65 years and over-Male,65 years and over,2007,Male,6604,31390,42880
+348,2007,Annual,9.21,0.118,Weekend days and holidays,65 years and over,Sleeping,Male,2007-65 years and over-Male,65 years and over,2007,Male,15320,38470,52540
+349,2007,Annual,9.21,0.118,Weekend days and holidays,65 years and over,Sleeping,Male,2007-65 years and over-Male,65 years and over,2007,Male,8714,43830,59870
+350,2007,Annual,9.21,0.118,Weekend days and holidays,65 years and over,Sleeping,Male,2007-65 years and over-Male,65 years and over,2007,Male,6604,31390,42880
+351,2008,Annual,8.95,0.088,All days,65 years and over,Sleeping,Male,2008-65 years and over-Male,65 years and over,2008,Male,15910,39050,51440
+352,2008,Annual,8.95,0.088,All days,65 years and over,Sleeping,Male,2008-65 years and over-Male,65 years and over,2008,Male,9191,44510,58640
+353,2008,Annual,8.95,0.088,All days,65 years and over,Sleeping,Male,2008-65 years and over-Male,65 years and over,2008,Male,6722,31580,41610
+354,2008,Annual,8.95,0.116,Nonholiday weekdays,65 years and over,Sleeping,Male,2008-65 years and over-Male,65 years and over,2008,Male,15910,39050,51440
+355,2008,Annual,8.95,0.116,Nonholiday weekdays,65 years and over,Sleeping,Male,2008-65 years and over-Male,65 years and over,2008,Male,9191,44510,58640
+356,2008,Annual,8.95,0.116,Nonholiday weekdays,65 years and over,Sleeping,Male,2008-65 years and over-Male,65 years and over,2008,Male,6722,31580,41610
+357,2008,Annual,8.93,0.134,Weekend days and holidays,65 years and over,Sleeping,Male,2008-65 years and over-Male,65 years and over,2008,Male,15910,39050,51440
+358,2008,Annual,8.93,0.134,Weekend days and holidays,65 years and over,Sleeping,Male,2008-65 years and over-Male,65 years and over,2008,Male,9191,44510,58640
+359,2008,Annual,8.93,0.134,Weekend days and holidays,65 years and over,Sleeping,Male,2008-65 years and over-Male,65 years and over,2008,Male,6722,31580,41610
+360,2009,Annual,8.83,0.085,All days,65 years and over,Sleeping,Male,2009-65 years and over-Male,65 years and over,2009,Male,16410,38750,51270
+361,2009,Annual,8.83,0.085,All days,65 years and over,Sleeping,Male,2009-65 years and over-Male,65 years and over,2009,Male,9530,43930,58120
+362,2009,Annual,8.83,0.085,All days,65 years and over,Sleeping,Male,2009-65 years and over-Male,65 years and over,2009,Male,6876,31570,41770
+363,2009,Annual,8.68,0.116,Nonholiday weekdays,65 years and over,Sleeping,Male,2009-65 years and over-Male,65 years and over,2009,Male,16410,38750,51270
+364,2009,Annual,8.68,0.116,Nonholiday weekdays,65 years and over,Sleeping,Male,2009-65 years and over-Male,65 years and over,2009,Male,9530,43930,58120
+365,2009,Annual,8.68,0.116,Nonholiday weekdays,65 years and over,Sleeping,Male,2009-65 years and over-Male,65 years and over,2009,Male,6876,31570,41770
+366,2009,Annual,9.19,0.106,Weekend days and holidays,65 years and over,Sleeping,Male,2009-65 years and over-Male,65 years and over,2009,Male,16410,38750,51270
+367,2009,Annual,9.19,0.106,Weekend days and holidays,65 years and over,Sleeping,Male,2009-65 years and over-Male,65 years and over,2009,Male,9530,43930,58120
+368,2009,Annual,9.19,0.106,Weekend days and holidays,65 years and over,Sleeping,Male,2009-65 years and over-Male,65 years and over,2009,Male,6876,31570,41770
+369,2010,Annual,9,0.081,All days,65 years and over,Sleeping,Male,2010-65 years and over-Male,65 years and over,2010,Male,16970,39800,51940
+370,2010,Annual,9,0.081,All days,65 years and over,Sleeping,Male,2010-65 years and over-Male,65 years and over,2010,Male,9776,46250,60350
+371,2010,Annual,9,0.081,All days,65 years and over,Sleeping,Male,2010-65 years and over-Male,65 years and over,2010,Male,7190,31030,40490
+372,2010,Annual,8.93,0.098,Nonholiday weekdays,65 years and over,Sleeping,Male,2010-65 years and over-Male,65 years and over,2010,Male,16970,39800,51940
+373,2010,Annual,8.93,0.098,Nonholiday weekdays,65 years and over,Sleeping,Male,2010-65 years and over-Male,65 years and over,2010,Male,9776,46250,60350
+374,2010,Annual,8.93,0.098,Nonholiday weekdays,65 years and over,Sleeping,Male,2010-65 years and over-Male,65 years and over,2010,Male,7190,31030,40490
+375,2010,Annual,9.17,0.115,Weekend days and holidays,65 years and over,Sleeping,Male,2010-65 years and over-Male,65 years and over,2010,Male,16970,39800,51940
+376,2010,Annual,9.17,0.115,Weekend days and holidays,65 years and over,Sleeping,Male,2010-65 years and over-Male,65 years and over,2010,Male,9776,46250,60350
+377,2010,Annual,9.17,0.115,Weekend days and holidays,65 years and over,Sleeping,Male,2010-65 years and over-Male,65 years and over,2010,Male,7190,31030,40490
+378,2011,Annual,9.05,0.092,All days,65 years and over,Sleeping,Male,2011-65 years and over-Male,65 years and over,2011,Male,17920,42250,53470
+379,2011,Annual,9.05,0.092,All days,65 years and over,Sleeping,Male,2011-65 years and over-Male,65 years and over,2011,Male,10750,47980,60730
+380,2011,Annual,9.05,0.092,All days,65 years and over,Sleeping,Male,2011-65 years and over-Male,65 years and over,2011,Male,7169,33650,42590
+381,2011,Annual,8.97,0.119,Nonholiday weekdays,65 years and over,Sleeping,Male,2011-65 years and over-Male,65 years and over,2011,Male,17920,42250,53470
+382,2011,Annual,8.97,0.119,Nonholiday weekdays,65 years and over,Sleeping,Male,2011-65 years and over-Male,65 years and over,2011,Male,10750,47980,60730
+383,2011,Annual,8.97,0.119,Nonholiday weekdays,65 years and over,Sleeping,Male,2011-65 years and over-Male,65 years and over,2011,Male,7169,33650,42590
+384,2011,Annual,9.25,0.125,Weekend days and holidays,65 years and over,Sleeping,Male,2011-65 years and over-Male,65 years and over,2011,Male,17920,42250,53470
+385,2011,Annual,9.25,0.125,Weekend days and holidays,65 years and over,Sleeping,Male,2011-65 years and over-Male,65 years and over,2011,Male,10750,47980,60730
+386,2011,Annual,9.25,0.125,Weekend days and holidays,65 years and over,Sleeping,Male,2011-65 years and over-Male,65 years and over,2011,Male,7169,33650,42590
+387,2012,Annual,8.81,0.075,All days,65 years and over,Sleeping,Male,2012-65 years and over-Male,65 years and over,2012,Male,18800,44190,54860
+388,2012,Annual,8.81,0.075,All days,65 years and over,Sleeping,Male,2012-65 years and over-Male,65 years and over,2012,Male,11320,49720,61740
+389,2012,Annual,8.81,0.075,All days,65 years and over,Sleeping,Male,2012-65 years and over-Male,65 years and over,2012,Male,7479,35810,44460
+390,2012,Annual,8.68,0.097,Nonholiday weekdays,65 years and over,Sleeping,Male,2012-65 years and over-Male,65 years and over,2012,Male,18800,44190,54860
+391,2012,Annual,8.68,0.097,Nonholiday weekdays,65 years and over,Sleeping,Male,2012-65 years and over-Male,65 years and over,2012,Male,11320,49720,61740
+392,2012,Annual,8.68,0.097,Nonholiday weekdays,65 years and over,Sleeping,Male,2012-65 years and over-Male,65 years and over,2012,Male,7479,35810,44460
+393,2012,Annual,9.1,0.105,Weekend days and holidays,65 years and over,Sleeping,Male,2012-65 years and over-Male,65 years and over,2012,Male,18800,44190,54860
+394,2012,Annual,9.1,0.105,Weekend days and holidays,65 years and over,Sleeping,Male,2012-65 years and over-Male,65 years and over,2012,Male,11320,49720,61740
+395,2012,Annual,9.1,0.105,Weekend days and holidays,65 years and over,Sleeping,Male,2012-65 years and over-Male,65 years and over,2012,Male,7479,35810,44460
+396,2013,Annual,8.83,0.078,All days,65 years and over,Sleeping,Male,2013-65 years and over-Male,65 years and over,2013,Male,19770,47080,57760
+397,2013,Annual,8.83,0.078,All days,65 years and over,Sleeping,Male,2013-65 years and over-Male,65 years and over,2013,Male,19220,44850,55020
+398,2013,Annual,8.83,0.078,All days,65 years and over,Sleeping,Male,2013-65 years and over-Male,65 years and over,2013,Male,12260,51370,63020
+399,2013,Annual,8.83,0.078,All days,65 years and over,Sleeping,Male,2013-65 years and over-Male,65 years and over,2013,Male,11680,50680,62170
+400,2013,Annual,8.83,0.078,All days,65 years and over,Sleeping,Male,2013-65 years and over-Male,65 years and over,2013,Male,7503,40070,49160
+401,2013,Annual,8.83,0.078,All days,65 years and over,Sleeping,Male,2013-65 years and over-Male,65 years and over,2013,Male,7540,35820,43940
+402,2013,Annual,8.67,0.099,Nonholiday weekdays,65 years and over,Sleeping,Male,2013-65 years and over-Male,65 years and over,2013,Male,19770,47080,57760
+403,2013,Annual,8.67,0.099,Nonholiday weekdays,65 years and over,Sleeping,Male,2013-65 years and over-Male,65 years and over,2013,Male,19220,44850,55020
+404,2013,Annual,8.67,0.099,Nonholiday weekdays,65 years and over,Sleeping,Male,2013-65 years and over-Male,65 years and over,2013,Male,12260,51370,63020
+405,2013,Annual,8.67,0.099,Nonholiday weekdays,65 years and over,Sleeping,Male,2013-65 years and over-Male,65 years and over,2013,Male,11680,50680,62170
+406,2013,Annual,8.67,0.099,Nonholiday weekdays,65 years and over,Sleeping,Male,2013-65 years and over-Male,65 years and over,2013,Male,7503,40070,49160
+407,2013,Annual,8.67,0.099,Nonholiday weekdays,65 years and over,Sleeping,Male,2013-65 years and over-Male,65 years and over,2013,Male,7540,35820,43940
+408,2013,Annual,9.2,0.091,Weekend days and holidays,65 years and over,Sleeping,Male,2013-65 years and over-Male,65 years and over,2013,Male,19770,47080,57760
+409,2013,Annual,9.2,0.091,Weekend days and holidays,65 years and over,Sleeping,Male,2013-65 years and over-Male,65 years and over,2013,Male,19220,44850,55020
+410,2013,Annual,9.2,0.091,Weekend days and holidays,65 years and over,Sleeping,Male,2013-65 years and over-Male,65 years and over,2013,Male,12260,51370,63020
+411,2013,Annual,9.2,0.091,Weekend days and holidays,65 years and over,Sleeping,Male,2013-65 years and over-Male,65 years and over,2013,Male,11680,50680,62170
+412,2013,Annual,9.2,0.091,Weekend days and holidays,65 years and over,Sleeping,Male,2013-65 years and over-Male,65 years and over,2013,Male,7503,40070,49160
+413,2013,Annual,9.2,0.091,Weekend days and holidays,65 years and over,Sleeping,Male,2013-65 years and over-Male,65 years and over,2013,Male,7540,35820,43940
+414,2014,Annual,8.96,0.087,All days,65 years and over,Sleeping,Male,2014-65 years and over-Male,65 years and over,2014,Male,19950,48350,58490
+415,2014,Annual,8.96,0.087,All days,65 years and over,Sleeping,Male,2014-65 years and over-Male,65 years and over,2014,Male,12240,53200,64340
+416,2014,Annual,8.96,0.087,All days,65 years and over,Sleeping,Male,2014-65 years and over-Male,65 years and over,2014,Male,7712,40660,49190
+417,2014,Annual,8.9,0.113,Nonholiday weekdays,65 years and over,Sleeping,Male,2014-65 years and over-Male,65 years and over,2014,Male,19950,48350,58490
+418,2014,Annual,8.9,0.113,Nonholiday weekdays,65 years and over,Sleeping,Male,2014-65 years and over-Male,65 years and over,2014,Male,12240,53200,64340
+419,2014,Annual,8.9,0.113,Nonholiday weekdays,65 years and over,Sleeping,Male,2014-65 years and over-Male,65 years and over,2014,Male,7712,40660,49190
+420,2014,Annual,9.1,0.105,Weekend days and holidays,65 years and over,Sleeping,Male,2014-65 years and over-Male,65 years and over,2014,Male,19950,48350,58490
+421,2014,Annual,9.1,0.105,Weekend days and holidays,65 years and over,Sleeping,Male,2014-65 years and over-Male,65 years and over,2014,Male,12240,53200,64340
+422,2014,Annual,9.1,0.105,Weekend days and holidays,65 years and over,Sleeping,Male,2014-65 years and over-Male,65 years and over,2014,Male,7712,40660,49190
+423,2015,Annual,8.97,0.078,All days,65 years and over,Sleeping,Male,2015-65 years and over-Male,65 years and over,2015,Male,20660,48630,58870
+424,2015,Annual,8.97,0.078,All days,65 years and over,Sleeping,Male,2015-65 years and over-Male,65 years and over,2015,Male,12620,54760,66280
+425,2015,Annual,8.97,0.078,All days,65 years and over,Sleeping,Male,2015-65 years and over-Male,65 years and over,2015,Male,8040,39030,47240
+426,2015,Annual,8.89,0.102,Nonholiday weekdays,65 years and over,Sleeping,Male,2015-65 years and over-Male,65 years and over,2015,Male,20660,48630,58870
+427,2015,Annual,8.89,0.102,Nonholiday weekdays,65 years and over,Sleeping,Male,2015-65 years and over-Male,65 years and over,2015,Male,12620,54760,66280
+428,2015,Annual,8.89,0.102,Nonholiday weekdays,65 years and over,Sleeping,Male,2015-65 years and over-Male,65 years and over,2015,Male,8040,39030,47240
+429,2015,Annual,9.15,0.091,Weekend days and holidays,65 years and over,Sleeping,Male,2015-65 years and over-Male,65 years and over,2015,Male,20660,48630,58870
+430,2015,Annual,9.15,0.091,Weekend days and holidays,65 years and over,Sleeping,Male,2015-65 years and over-Male,65 years and over,2015,Male,12620,54760,66280
+431,2015,Annual,9.15,0.091,Weekend days and holidays,65 years and over,Sleeping,Male,2015-65 years and over-Male,65 years and over,2015,Male,8040,39030,47240
+432,2016,Annual,8.9,0.072,All days,65 years and over,Sleeping,Male,2016-65 years and over-Male,65 years and over,2016,Male,21600,50590,60700
+433,2016,Annual,8.9,0.072,All days,65 years and over,Sleeping,Male,2016-65 years and over-Male,65 years and over,2016,Male,13320,56790,68140
+434,2016,Annual,8.9,0.072,All days,65 years and over,Sleeping,Male,2016-65 years and over-Male,65 years and over,2016,Male,8282,40610,48720
+435,2016,Annual,8.81,0.094,Nonholiday weekdays,65 years and over,Sleeping,Male,2016-65 years and over-Male,65 years and over,2016,Male,21600,50590,60700
+436,2016,Annual,8.81,0.094,Nonholiday weekdays,65 years and over,Sleeping,Male,2016-65 years and over-Male,65 years and over,2016,Male,13320,56790,68140
+437,2016,Annual,8.81,0.094,Nonholiday weekdays,65 years and over,Sleeping,Male,2016-65 years and over-Male,65 years and over,2016,Male,8282,40610,48720
+438,2016,Annual,9.12,0.101,Weekend days and holidays,65 years and over,Sleeping,Male,2016-65 years and over-Male,65 years and over,2016,Male,21600,50590,60700
+439,2016,Annual,9.12,0.101,Weekend days and holidays,65 years and over,Sleeping,Male,2016-65 years and over-Male,65 years and over,2016,Male,13320,56790,68140
+440,2016,Annual,9.12,0.101,Weekend days and holidays,65 years and over,Sleeping,Male,2016-65 years and over-Male,65 years and over,2016,Male,8282,40610,48720
+441,2017,Annual,8.75,0.077,All days,65 years and over,Sleeping,Male,2017-65 years and over-Male,65 years and over,2017,Male,22440,54970,64820
+442,2017,Annual,8.75,0.077,All days,65 years and over,Sleeping,Male,2017-65 years and over-Male,65 years and over,2017,Male,22450,52700,62140
+443,2017,Annual,8.75,0.077,All days,65 years and over,Sleeping,Male,2017-65 years and over-Male,65 years and over,2017,Male,13940,60900,71810
+444,2017,Annual,8.75,0.077,All days,65 years and over,Sleeping,Male,2017-65 years and over-Male,65 years and over,2017,Male,13970,58090,68500
+445,2017,Annual,8.75,0.077,All days,65 years and over,Sleeping,Male,2017-65 years and over-Male,65 years and over,2017,Male,8498,45240,53350
+446,2017,Annual,8.75,0.077,All days,65 years and over,Sleeping,Male,2017-65 years and over-Male,65 years and over,2017,Male,8481,43810,51650
+447,2017,Annual,8.68,0.106,Nonholiday weekdays,65 years and over,Sleeping,Male,2017-65 years and over-Male,65 years and over,2017,Male,22440,54970,64820
+448,2017,Annual,8.68,0.106,Nonholiday weekdays,65 years and over,Sleeping,Male,2017-65 years and over-Male,65 years and over,2017,Male,22450,52700,62140
+449,2017,Annual,8.68,0.106,Nonholiday weekdays,65 years and over,Sleeping,Male,2017-65 years and over-Male,65 years and over,2017,Male,13940,60900,71810
+450,2017,Annual,8.68,0.106,Nonholiday weekdays,65 years and over,Sleeping,Male,2017-65 years and over-Male,65 years and over,2017,Male,13970,58090,68500
+451,2017,Annual,8.68,0.106,Nonholiday weekdays,65 years and over,Sleeping,Male,2017-65 years and over-Male,65 years and over,2017,Male,8498,45240,53350
+452,2017,Annual,8.68,0.106,Nonholiday weekdays,65 years and over,Sleeping,Male,2017-65 years and over-Male,65 years and over,2017,Male,8481,43810,51650
+453,2017,Annual,8.89,0.116,Weekend days and holidays,65 years and over,Sleeping,Male,2017-65 years and over-Male,65 years and over,2017,Male,22440,54970,64820
+454,2017,Annual,8.89,0.116,Weekend days and holidays,65 years and over,Sleeping,Male,2017-65 years and over-Male,65 years and over,2017,Male,22450,52700,62140
+455,2017,Annual,8.89,0.116,Weekend days and holidays,65 years and over,Sleeping,Male,2017-65 years and over-Male,65 years and over,2017,Male,13940,60900,71810
+456,2017,Annual,8.89,0.116,Weekend days and holidays,65 years and over,Sleeping,Male,2017-65 years and over-Male,65 years and over,2017,Male,13970,58090,68500
+457,2017,Annual,8.89,0.116,Weekend days and holidays,65 years and over,Sleeping,Male,2017-65 years and over-Male,65 years and over,2017,Male,8498,45240,53350
+458,2017,Annual,8.89,0.116,Weekend days and holidays,65 years and over,Sleeping,Male,2017-65 years and over-Male,65 years and over,2017,Male,8481,43810,51650
+459,2003,Annual,8.65,0.022,All days,15 years and over,Sleeping,Female,2003-15 years and over-Female,15 years and over,2003,Female,102700,24630,37450
+460,2003,Annual,9.34,0.029,Weekend days and holidays,15 years and over,Sleeping,Female,2003-15 years and over-Female,15 years and over,2003,Female,102700,24630,37450
+461,2003,Annual,8.36,0.028,Nonholiday weekdays,15 years and over,Sleeping,Female,2003-15 years and over-Female,15 years and over,2003,Female,102700,24630,37450
+462,2004,Annual,8.61,0.028,All days,15 years and over,Sleeping,Female,2004-15 years and over-Female,15 years and over,2004,Female,103400,25030,37120
+463,2004,Annual,9.27,0.037,Weekend days and holidays,15 years and over,Sleeping,Female,2004-15 years and over-Female,15 years and over,2004,Female,103400,25030,37120
+464,2004,Annual,8.33,0.038,Nonholiday weekdays,15 years and over,Sleeping,Female,2004-15 years and over-Female,15 years and over,2004,Female,103400,25030,37120
+465,2005,Annual,8.71,0.029,All days,15 years and over,Sleeping,Female,2005-15 years and over-Female,15 years and over,2005,Female,104200,26260,37860
+466,2005,Annual,9.34,0.042,Weekend days and holidays,15 years and over,Sleeping,Female,2005-15 years and over-Female,15 years and over,2005,Female,104200,26260,37860
+467,2005,Annual,8.45,0.038,Nonholiday weekdays,15 years and over,Sleeping,Female,2005-15 years and over-Female,15 years and over,2005,Female,104200,26260,37860
+468,2006,Annual,8.69,0.035,All days,15 years and over,Sleeping,Female,2006-15 years and over-Female,15 years and over,2006,Female,104600,28420,39810
+469,2006,Annual,9.36,0.047,Weekend days and holidays,15 years and over,Sleeping,Female,2006-15 years and over-Female,15 years and over,2006,Female,104600,28420,39810
+470,2006,Annual,8.4,0.045,Nonholiday weekdays,15 years and over,Sleeping,Female,2006-15 years and over-Female,15 years and over,2006,Female,104600,28420,39810
+471,2007,Annual,8.63,0.03,All days,15 years and over,Sleeping,Female,2007-15 years and over-Female,15 years and over,2007,Female,105200,29250,39950
+472,2007,Annual,9.24,0.043,Weekend days and holidays,15 years and over,Sleeping,Female,2007-15 years and over-Female,15 years and over,2007,Female,105200,29250,39950
+473,2007,Annual,8.36,0.041,Nonholiday weekdays,15 years and over,Sleeping,Female,2007-15 years and over-Female,15 years and over,2007,Female,105200,29250,39950
+474,2008,Annual,8.64,0.034,All days,15 years and over,Sleeping,Female,2008-15 years and over-Female,15 years and over,2008,Female,106400,29090,38320
+475,2008,Annual,9.36,0.047,Weekend days and holidays,15 years and over,Sleeping,Female,2008-15 years and over-Female,15 years and over,2008,Female,106400,29090,38320
+476,2008,Annual,8.33,0.044,Nonholiday weekdays,15 years and over,Sleeping,Female,2008-15 years and over-Female,15 years and over,2008,Female,106400,29090,38320
+477,2009,Annual,8.73,0.03,All days,15 years and over,Sleeping,Female,2009-15 years and over-Female,15 years and over,2009,Female,106200,29720,39320
+478,2009,Annual,9.34,0.045,Weekend days and holidays,15 years and over,Sleeping,Female,2009-15 years and over-Female,15 years and over,2009,Female,106200,29720,39320
+479,2009,Annual,8.47,0.039,Nonholiday weekdays,15 years and over,Sleeping,Female,2009-15 years and over-Female,15 years and over,2009,Female,106200,29720,39320
+480,2010,Annual,8.76,0.033,All days,15 years and over,Sleeping,Female,2010-15 years and over-Female,15 years and over,2010,Female,107200,29750,38820
+481,2010,Annual,9.4,0.046,Weekend days and holidays,15 years and over,Sleeping,Female,2010-15 years and over-Female,15 years and over,2010,Female,107200,29750,38820
+482,2010,Annual,8.49,0.042,Nonholiday weekdays,15 years and over,Sleeping,Female,2010-15 years and over-Female,15 years and over,2010,Female,107200,29750,38820
+483,2011,Annual,8.8,0.035,All days,15 years and over,Sleeping,Female,2011-15 years and over-Female,15 years and over,2011,Female,108300,30550,38670
+484,2011,Annual,9.39,0.054,Weekend days and holidays,15 years and over,Sleeping,Female,2011-15 years and over-Female,15 years and over,2011,Female,108300,30550,38670
+485,2011,Annual,8.56,0.045,Nonholiday weekdays,15 years and over,Sleeping,Female,2011-15 years and over-Female,15 years and over,2011,Female,108300,30550,38670
+486,2012,Annual,8.86,0.033,All days,15 years and over,Sleeping,Female,2012-15 years and over-Female,15 years and over,2012,Female,109400,31370,38950
+487,2012,Annual,9.46,0.048,Weekend days and holidays,15 years and over,Sleeping,Female,2012-15 years and over-Female,15 years and over,2012,Female,109400,31370,38950
+488,2012,Annual,8.6,0.043,Nonholiday weekdays,15 years and over,Sleeping,Female,2012-15 years and over-Female,15 years and over,2012,Female,109400,31370,38950
+489,2013,Annual,8.82,0.034,All days,15 years and over,Sleeping,Female,2013-15 years and over-Female,15 years and over,2013,Female,112100,32450,39810
+490,2013,Annual,8.82,0.034,All days,15 years and over,Sleeping,Female,2013-15 years and over-Female,15 years and over,2013,Female,110000,31970,39220
+491,2013,Annual,9.38,0.052,Weekend days and holidays,15 years and over,Sleeping,Female,2013-15 years and over-Female,15 years and over,2013,Female,112100,32450,39810
+492,2013,Annual,9.38,0.052,Weekend days and holidays,15 years and over,Sleeping,Female,2013-15 years and over-Female,15 years and over,2013,Female,110000,31970,39220
+493,2013,Annual,8.57,0.047,Nonholiday weekdays,15 years and over,Sleeping,Female,2013-15 years and over-Female,15 years and over,2013,Female,112100,32450,39810
+494,2013,Annual,8.57,0.047,Nonholiday weekdays,15 years and over,Sleeping,Female,2013-15 years and over-Female,15 years and over,2013,Female,110000,31970,39220
+495,2014,Annual,8.9,0.034,All days,15 years and over,Sleeping,Female,2014-15 years and over-Female,15 years and over,2014,Female,112600,32590,39420
+496,2014,Annual,9.52,0.049,Weekend days and holidays,15 years and over,Sleeping,Female,2014-15 years and over-Female,15 years and over,2014,Female,112600,32590,39420
+497,2014,Annual,8.63,0.042,Nonholiday weekdays,15 years and over,Sleeping,Female,2014-15 years and over-Female,15 years and over,2014,Female,112600,32590,39420
+498,2015,Annual,8.9,0.033,All days,15 years and over,Sleeping,Female,2015-15 years and over-Female,15 years and over,2015,Female,114400,34450,41710
+499,2015,Annual,9.46,0.047,Weekend days and holidays,15 years and over,Sleeping,Female,2015-15 years and over-Female,15 years and over,2015,Female,114400,34450,41710
+500,2015,Annual,8.66,0.045,Nonholiday weekdays,15 years and over,Sleeping,Female,2015-15 years and over-Female,15 years and over,2015,Female,114400,34450,41710
+501,2016,Annual,8.88,0.037,All days,15 years and over,Sleeping,Female,2016-15 years and over-Female,15 years and over,2016,Female,115400,36160,43380
+502,2016,Annual,9.49,0.051,Weekend days and holidays,15 years and over,Sleeping,Female,2016-15 years and over-Female,15 years and over,2016,Female,115400,36160,43380
+503,2016,Annual,8.62,0.047,Nonholiday weekdays,15 years and over,Sleeping,Female,2016-15 years and over-Female,15 years and over,2016,Female,115400,36160,43380
+504,2017,Annual,8.9,0.037,All days,15 years and over,Sleeping,Female,2017-15 years and over-Female,15 years and over,2017,Female,116500,38400,45270
+505,2017,Annual,8.9,0.037,All days,15 years and over,Sleeping,Female,2017-15 years and over-Female,15 years and over,2017,Female,116600,37540,44260
+506,2017,Annual,9.49,0.05,Weekend days and holidays,15 years and over,Sleeping,Female,2017-15 years and over-Female,15 years and over,2017,Female,116500,38400,45270
+507,2017,Annual,9.49,0.05,Weekend days and holidays,15 years and over,Sleeping,Female,2017-15 years and over-Female,15 years and over,2017,Female,116600,37540,44260
+508,2017,Annual,8.65,0.047,Nonholiday weekdays,15 years and over,Sleeping,Female,2017-15 years and over-Female,15 years and over,2017,Female,116500,38400,45270
+509,2017,Annual,8.65,0.047,Nonholiday weekdays,15 years and over,Sleeping,Female,2017-15 years and over-Female,15 years and over,2017,Female,116600,37540,44260
+510,2003,Annual,9.16,0.075,All days,15 to 24 years,Sleeping,Female,2003-15 to 24 years-Female,15 to 24 years,2003,Female,13590,10780,16380
+511,2003,Annual,10.07,0.093,Weekend days and holidays,15 to 24 years,Sleeping,Female,2003-15 to 24 years-Female,15 to 24 years,2003,Female,13590,10780,16380
+512,2003,Annual,8.78,0.1,Nonholiday weekdays,15 to 24 years,Sleeping,Female,2003-15 to 24 years-Female,15 to 24 years,2003,Female,13590,10780,16380
+513,2004,Annual,9.34,0.105,All days,15 to 24 years,Sleeping,Female,2004-15 to 24 years-Female,15 to 24 years,2004,Female,13590,11180,16580
+514,2004,Annual,10.32,0.137,Weekend days and holidays,15 to 24 years,Sleeping,Female,2004-15 to 24 years-Female,15 to 24 years,2004,Female,13590,11180,16580
+515,2004,Annual,8.93,0.144,Nonholiday weekdays,15 to 24 years,Sleeping,Female,2004-15 to 24 years-Female,15 to 24 years,2004,Female,13590,11180,16580
+516,2005,Annual,9.35,0.094,All days,15 to 24 years,Sleeping,Female,2005-15 to 24 years-Female,15 to 24 years,2005,Female,13480,11520,16610
+517,2005,Annual,9.83,0.122,Weekend days and holidays,15 to 24 years,Sleeping,Female,2005-15 to 24 years-Female,15 to 24 years,2005,Female,13480,11520,16610
+518,2005,Annual,9.15,0.125,Nonholiday weekdays,15 to 24 years,Sleeping,Female,2005-15 to 24 years-Female,15 to 24 years,2005,Female,13480,11520,16610
+519,2006,Annual,9.17,0.097,All days,15 to 24 years,Sleeping,Female,2006-15 to 24 years-Female,15 to 24 years,2006,Female,13270,12290,17220
+520,2006,Annual,10.18,0.131,Weekend days and holidays,15 to 24 years,Sleeping,Female,2006-15 to 24 years-Female,15 to 24 years,2006,Female,13270,12290,17220
+521,2006,Annual,8.75,0.131,Nonholiday weekdays,15 to 24 years,Sleeping,Female,2006-15 to 24 years-Female,15 to 24 years,2006,Female,13270,12290,17220
+522,2007,Annual,9.2,0.107,All days,15 to 24 years,Sleeping,Female,2007-15 to 24 years-Female,15 to 24 years,2007,Female,13160,12700,17340
+523,2007,Annual,10,0.141,Weekend days and holidays,15 to 24 years,Sleeping,Female,2007-15 to 24 years-Female,15 to 24 years,2007,Female,13160,12700,17340
+524,2007,Annual,8.84,0.133,Nonholiday weekdays,15 to 24 years,Sleeping,Female,2007-15 to 24 years-Female,15 to 24 years,2007,Female,13160,12700,17340
+525,2008,Annual,9.13,0.119,All days,15 to 24 years,Sleeping,Female,2008-15 to 24 years-Female,15 to 24 years,2008,Female,13260,12970,17080
+526,2008,Annual,9.96,0.167,Weekend days and holidays,15 to 24 years,Sleeping,Female,2008-15 to 24 years-Female,15 to 24 years,2008,Female,13260,12970,17080
+527,2008,Annual,8.76,0.15,Nonholiday weekdays,15 to 24 years,Sleeping,Female,2008-15 to 24 years-Female,15 to 24 years,2008,Female,13260,12970,17080
+528,2009,Annual,9.33,0.098,All days,15 to 24 years,Sleeping,Female,2009-15 to 24 years-Female,15 to 24 years,2009,Female,12800,12330,16310
+529,2009,Annual,9.78,0.16,Weekend days and holidays,15 to 24 years,Sleeping,Female,2009-15 to 24 years-Female,15 to 24 years,2009,Female,12800,12330,16310
+530,2009,Annual,9.13,0.13,Nonholiday weekdays,15 to 24 years,Sleeping,Female,2009-15 to 24 years-Female,15 to 24 years,2009,Female,12800,12330,16310
+531,2010,Annual,9.27,0.115,All days,15 to 24 years,Sleeping,Female,2010-15 to 24 years-Female,15 to 24 years,2010,Female,12540,12300,16050
+532,2010,Annual,9.93,0.151,Weekend days and holidays,15 to 24 years,Sleeping,Female,2010-15 to 24 years-Female,15 to 24 years,2010,Female,12540,12300,16050
+533,2010,Annual,9,0.15,Nonholiday weekdays,15 to 24 years,Sleeping,Female,2010-15 to 24 years-Female,15 to 24 years,2010,Female,12540,12300,16050
+534,2011,Annual,9.31,0.111,All days,15 to 24 years,Sleeping,Female,2011-15 to 24 years-Female,15 to 24 years,2011,Female,12930,12600,15940
+535,2011,Annual,10.15,0.187,Weekend days and holidays,15 to 24 years,Sleeping,Female,2011-15 to 24 years-Female,15 to 24 years,2011,Female,12930,12600,15940
+536,2011,Annual,8.96,0.134,Nonholiday weekdays,15 to 24 years,Sleeping,Female,2011-15 to 24 years-Female,15 to 24 years,2011,Female,12930,12600,15940
+537,2012,Annual,9.53,0.112,All days,15 to 24 years,Sleeping,Female,2012-15 to 24 years-Female,15 to 24 years,2012,Female,13130,13380,16610
+538,2012,Annual,10.26,0.142,Weekend days and holidays,15 to 24 years,Sleeping,Female,2012-15 to 24 years-Female,15 to 24 years,2012,Female,13130,13380,16610
+539,2012,Annual,9.22,0.152,Nonholiday weekdays,15 to 24 years,Sleeping,Female,2012-15 to 24 years-Female,15 to 24 years,2012,Female,13130,13380,16610
+540,2013,Annual,9.38,0.128,All days,15 to 24 years,Sleeping,Female,2013-15 to 24 years-Female,15 to 24 years,2013,Female,13400,14000,17180
+541,2013,Annual,9.38,0.128,All days,15 to 24 years,Sleeping,Female,2013-15 to 24 years-Female,15 to 24 years,2013,Female,13040,13970,17140
+542,2013,Annual,10.15,0.17,Weekend days and holidays,15 to 24 years,Sleeping,Female,2013-15 to 24 years-Female,15 to 24 years,2013,Female,13400,14000,17180
+543,2013,Annual,10.15,0.17,Weekend days and holidays,15 to 24 years,Sleeping,Female,2013-15 to 24 years-Female,15 to 24 years,2013,Female,13040,13970,17140
+544,2013,Annual,9.07,0.174,Nonholiday weekdays,15 to 24 years,Sleeping,Female,2013-15 to 24 years-Female,15 to 24 years,2013,Female,13400,14000,17180
+545,2013,Annual,9.07,0.174,Nonholiday weekdays,15 to 24 years,Sleeping,Female,2013-15 to 24 years-Female,15 to 24 years,2013,Female,13040,13970,17140
+546,2014,Annual,9.6,0.131,All days,15 to 24 years,Sleeping,Female,2014-15 to 24 years-Female,15 to 24 years,2014,Female,13410,13650,16510
+547,2014,Annual,10.32,0.16,Weekend days and holidays,15 to 24 years,Sleeping,Female,2014-15 to 24 years-Female,15 to 24 years,2014,Female,13410,13650,16510
+548,2014,Annual,9.3,0.168,Nonholiday weekdays,15 to 24 years,Sleeping,Female,2014-15 to 24 years-Female,15 to 24 years,2014,Female,13410,13650,16510
+549,2015,Annual,9.64,0.129,All days,15 to 24 years,Sleeping,Female,2015-15 to 24 years-Female,15 to 24 years,2015,Female,13430,14770,17880
+550,2015,Annual,10.15,0.191,Weekend days and holidays,15 to 24 years,Sleeping,Female,2015-15 to 24 years-Female,15 to 24 years,2015,Female,13430,14770,17880
+551,2015,Annual,9.42,0.154,Nonholiday weekdays,15 to 24 years,Sleeping,Female,2015-15 to 24 years-Female,15 to 24 years,2015,Female,13430,14770,17880
+552,2016,Annual,9.5,0.143,All days,15 to 24 years,Sleeping,Female,2016-15 to 24 years-Female,15 to 24 years,2016,Female,13470,15430,18510
+553,2016,Annual,10.52,0.171,Weekend days and holidays,15 to 24 years,Sleeping,Female,2016-15 to 24 years-Female,15 to 24 years,2016,Female,13470,15430,18510
+554,2016,Annual,9.09,0.181,Nonholiday weekdays,15 to 24 years,Sleeping,Female,2016-15 to 24 years-Female,15 to 24 years,2016,Female,13470,15430,18510
+555,2017,Annual,9.66,0.136,All days,15 to 24 years,Sleeping,Female,2017-15 to 24 years-Female,15 to 24 years,2017,Female,13230,17070,20130
+556,2017,Annual,9.66,0.136,All days,15 to 24 years,Sleeping,Female,2017-15 to 24 years-Female,15 to 24 years,2017,Female,13270,15800,18620
+557,2017,Annual,10.5,0.163,Weekend days and holidays,15 to 24 years,Sleeping,Female,2017-15 to 24 years-Female,15 to 24 years,2017,Female,13230,17070,20130
+558,2017,Annual,10.5,0.163,Weekend days and holidays,15 to 24 years,Sleeping,Female,2017-15 to 24 years-Female,15 to 24 years,2017,Female,13270,15800,18620
+559,2017,Annual,9.31,0.178,Nonholiday weekdays,15 to 24 years,Sleeping,Female,2017-15 to 24 years-Female,15 to 24 years,2017,Female,13230,17070,20130
+560,2017,Annual,9.31,0.178,Nonholiday weekdays,15 to 24 years,Sleeping,Female,2017-15 to 24 years-Female,15 to 24 years,2017,Female,13270,15800,18620
+561,2003,Annual,8.73,0.056,All days,25 to 34 years,Sleeping,Female,2003-25 to 34 years-Female,25 to 34 years,2003,Female,17160,26760,40690
+562,2003,Annual,9.45,0.075,Weekend days and holidays,25 to 34 years,Sleeping,Female,2003-25 to 34 years-Female,25 to 34 years,2003,Female,17160,26760,40690
+563,2003,Annual,8.44,0.075,Nonholiday weekdays,25 to 34 years,Sleeping,Female,2003-25 to 34 years-Female,25 to 34 years,2003,Female,17160,26760,40690
+564,2004,Annual,8.51,0.069,All days,25 to 34 years,Sleeping,Female,2004-25 to 34 years-Female,25 to 34 years,2004,Female,17040,26200,38860
+565,2004,Annual,9.37,0.088,Weekend days and holidays,25 to 34 years,Sleeping,Female,2004-25 to 34 years-Female,25 to 34 years,2004,Female,17040,26200,38860
+566,2004,Annual,8.16,0.088,Nonholiday weekdays,25 to 34 years,Sleeping,Female,2004-25 to 34 years-Female,25 to 34 years,2004,Female,17040,26200,38860
+567,2005,Annual,8.85,0.067,All days,25 to 34 years,Sleeping,Female,2005-25 to 34 years-Female,25 to 34 years,2005,Female,17060,26900,38770
+568,2005,Annual,9.74,0.105,Weekend days and holidays,25 to 34 years,Sleeping,Female,2005-25 to 34 years-Female,25 to 34 years,2005,Female,17060,26900,38770
+569,2005,Annual,8.47,0.084,Nonholiday weekdays,25 to 34 years,Sleeping,Female,2005-25 to 34 years-Female,25 to 34 years,2005,Female,17060,26900,38770
+570,2006,Annual,8.75,0.082,All days,25 to 34 years,Sleeping,Female,2006-25 to 34 years-Female,25 to 34 years,2006,Female,17150,29690,41600
+571,2006,Annual,9.44,0.099,Weekend days and holidays,25 to 34 years,Sleeping,Female,2006-25 to 34 years-Female,25 to 34 years,2006,Female,17150,29690,41600
+572,2006,Annual,8.45,0.111,Nonholiday weekdays,25 to 34 years,Sleeping,Female,2006-25 to 34 years-Female,25 to 34 years,2006,Female,17150,29690,41600
+573,2007,Annual,8.69,0.075,All days,25 to 34 years,Sleeping,Female,2007-25 to 34 years-Female,25 to 34 years,2007,Female,17240,31140,42530
+574,2007,Annual,9.36,0.102,Weekend days and holidays,25 to 34 years,Sleeping,Female,2007-25 to 34 years-Female,25 to 34 years,2007,Female,17240,31140,42530
+575,2007,Annual,8.41,0.099,Nonholiday weekdays,25 to 34 years,Sleeping,Female,2007-25 to 34 years-Female,25 to 34 years,2007,Female,17240,31140,42530
+576,2008,Annual,8.6,0.089,All days,25 to 34 years,Sleeping,Female,2008-25 to 34 years-Female,25 to 34 years,2008,Female,17450,29940,39440
+577,2008,Annual,9.58,0.094,Weekend days and holidays,25 to 34 years,Sleeping,Female,2008-25 to 34 years-Female,25 to 34 years,2008,Female,17450,29940,39440
+578,2008,Annual,8.2,0.119,Nonholiday weekdays,25 to 34 years,Sleeping,Female,2008-25 to 34 years-Female,25 to 34 years,2008,Female,17450,29940,39440
+579,2009,Annual,8.61,0.072,All days,25 to 34 years,Sleeping,Female,2009-25 to 34 years-Female,25 to 34 years,2009,Female,17500,30400,40210
+580,2009,Annual,9.53,0.103,Weekend days and holidays,25 to 34 years,Sleeping,Female,2009-25 to 34 years-Female,25 to 34 years,2009,Female,17500,30400,40210
+581,2009,Annual,8.23,0.087,Nonholiday weekdays,25 to 34 years,Sleeping,Female,2009-25 to 34 years-Female,25 to 34 years,2009,Female,17500,30400,40210
+582,2010,Annual,8.89,0.072,All days,25 to 34 years,Sleeping,Female,2010-25 to 34 years-Female,25 to 34 years,2010,Female,17510,30160,39350
+583,2010,Annual,9.62,0.123,Weekend days and holidays,25 to 34 years,Sleeping,Female,2010-25 to 34 years-Female,25 to 34 years,2010,Female,17510,30160,39350
+584,2010,Annual,8.59,0.09,Nonholiday weekdays,25 to 34 years,Sleeping,Female,2010-25 to 34 years-Female,25 to 34 years,2010,Female,17510,30160,39350
+585,2011,Annual,8.83,0.064,All days,25 to 34 years,Sleeping,Female,2011-25 to 34 years-Female,25 to 34 years,2011,Female,17640,31030,39280
+586,2011,Annual,9.43,0.11,Weekend days and holidays,25 to 34 years,Sleeping,Female,2011-25 to 34 years-Female,25 to 34 years,2011,Female,17640,31030,39280
+587,2011,Annual,8.57,0.084,Nonholiday weekdays,25 to 34 years,Sleeping,Female,2011-25 to 34 years-Female,25 to 34 years,2011,Female,17640,31030,39280
+588,2012,Annual,8.97,0.074,All days,25 to 34 years,Sleeping,Female,2012-25 to 34 years-Female,25 to 34 years,2012,Female,17820,31550,39180
+589,2012,Annual,9.69,0.124,Weekend days and holidays,25 to 34 years,Sleeping,Female,2012-25 to 34 years-Female,25 to 34 years,2012,Female,17820,31550,39180
+590,2012,Annual,8.65,0.091,Nonholiday weekdays,25 to 34 years,Sleeping,Female,2012-25 to 34 years-Female,25 to 34 years,2012,Female,17820,31550,39180
+591,2013,Annual,8.85,0.081,All days,25 to 34 years,Sleeping,Female,2013-25 to 34 years-Female,25 to 34 years,2013,Female,18230,31270,38360
+592,2013,Annual,8.85,0.081,All days,25 to 34 years,Sleeping,Female,2013-25 to 34 years-Female,25 to 34 years,2013,Female,17950,32350,39690
+593,2013,Annual,9.51,0.14,Weekend days and holidays,25 to 34 years,Sleeping,Female,2013-25 to 34 years-Female,25 to 34 years,2013,Female,18230,31270,38360
+594,2013,Annual,9.51,0.14,Weekend days and holidays,25 to 34 years,Sleeping,Female,2013-25 to 34 years-Female,25 to 34 years,2013,Female,17950,32350,39690
+595,2013,Annual,8.56,0.096,Nonholiday weekdays,25 to 34 years,Sleeping,Female,2013-25 to 34 years-Female,25 to 34 years,2013,Female,18230,31270,38360
+596,2013,Annual,8.56,0.096,Nonholiday weekdays,25 to 34 years,Sleeping,Female,2013-25 to 34 years-Female,25 to 34 years,2013,Female,17950,32350,39690
+597,2014,Annual,8.91,0.077,All days,25 to 34 years,Sleeping,Female,2014-25 to 34 years-Female,25 to 34 years,2014,Female,18380,32690,39540
+598,2014,Annual,9.72,0.125,Weekend days and holidays,25 to 34 years,Sleeping,Female,2014-25 to 34 years-Female,25 to 34 years,2014,Female,18380,32690,39540
+599,2014,Annual,8.57,0.102,Nonholiday weekdays,25 to 34 years,Sleeping,Female,2014-25 to 34 years-Female,25 to 34 years,2014,Female,18380,32690,39540
+600,2015,Annual,8.96,0.084,All days,25 to 34 years,Sleeping,Female,2015-25 to 34 years-Female,25 to 34 years,2015,Female,18860,35790,43320
+601,2015,Annual,9.52,0.118,Weekend days and holidays,25 to 34 years,Sleeping,Female,2015-25 to 34 years-Female,25 to 34 years,2015,Female,18860,35790,43320
+602,2015,Annual,8.71,0.112,Nonholiday weekdays,25 to 34 years,Sleeping,Female,2015-25 to 34 years-Female,25 to 34 years,2015,Female,18860,35790,43320
+603,2016,Annual,8.87,0.093,All days,25 to 34 years,Sleeping,Female,2016-25 to 34 years-Female,25 to 34 years,2016,Female,19270,35920,43100
+604,2016,Annual,9.65,0.13,Weekend days and holidays,25 to 34 years,Sleeping,Female,2016-25 to 34 years-Female,25 to 34 years,2016,Female,19270,35920,43100
+605,2016,Annual,8.54,0.124,Nonholiday weekdays,25 to 34 years,Sleeping,Female,2016-25 to 34 years-Female,25 to 34 years,2016,Female,19270,35920,43100
+606,2017,Annual,9.04,0.089,All days,25 to 34 years,Sleeping,Female,2017-25 to 34 years-Female,25 to 34 years,2017,Female,19410,37830,44600
+607,2017,Annual,9.04,0.089,All days,25 to 34 years,Sleeping,Female,2017-25 to 34 years-Female,25 to 34 years,2017,Female,19390,38100,44930
+608,2017,Annual,9.68,0.144,Weekend days and holidays,25 to 34 years,Sleeping,Female,2017-25 to 34 years-Female,25 to 34 years,2017,Female,19410,37830,44600
+609,2017,Annual,9.68,0.144,Weekend days and holidays,25 to 34 years,Sleeping,Female,2017-25 to 34 years-Female,25 to 34 years,2017,Female,19390,38100,44930
+610,2017,Annual,8.78,0.113,Nonholiday weekdays,25 to 34 years,Sleeping,Female,2017-25 to 34 years-Female,25 to 34 years,2017,Female,19410,37830,44600
+611,2017,Annual,8.78,0.113,Nonholiday weekdays,25 to 34 years,Sleeping,Female,2017-25 to 34 years-Female,25 to 34 years,2017,Female,19390,38100,44930
+612,2003,Annual,8.48,0.053,All days,35 to 44 years,Sleeping,Female,2003-35 to 44 years-Female,35 to 44 years,2003,Female,20010,29850,45390
+613,2003,Annual,9.31,0.06,Weekend days and holidays,35 to 44 years,Sleeping,Female,2003-35 to 44 years-Female,35 to 44 years,2003,Female,20010,29850,45390
+614,2003,Annual,8.13,0.069,Nonholiday weekdays,35 to 44 years,Sleeping,Female,2003-35 to 44 years-Female,35 to 44 years,2003,Female,20010,29850,45390
+615,2004,Annual,8.3,0.062,All days,35 to 44 years,Sleeping,Female,2004-35 to 44 years-Female,35 to 44 years,2004,Female,19740,30780,45660
+616,2004,Annual,8.98,0.08,Weekend days and holidays,35 to 44 years,Sleeping,Female,2004-35 to 44 years-Female,35 to 44 years,2004,Female,19740,30780,45660
+617,2004,Annual,8.01,0.082,Nonholiday weekdays,35 to 44 years,Sleeping,Female,2004-35 to 44 years-Female,35 to 44 years,2004,Female,19740,30780,45660
+618,2005,Annual,8.38,0.054,All days,35 to 44 years,Sleeping,Female,2005-35 to 44 years-Female,35 to 44 years,2005,Female,19550,32150,46350
+619,2005,Annual,9.26,0.083,Weekend days and holidays,35 to 44 years,Sleeping,Female,2005-35 to 44 years-Female,35 to 44 years,2005,Female,19550,32150,46350
+620,2005,Annual,8.01,0.069,Nonholiday weekdays,35 to 44 years,Sleeping,Female,2005-35 to 44 years-Female,35 to 44 years,2005,Female,19550,32150,46350
+621,2006,Annual,8.49,0.073,All days,35 to 44 years,Sleeping,Female,2006-35 to 44 years-Female,35 to 44 years,2006,Female,19200,34760,48700
+622,2006,Annual,9.28,0.113,Weekend days and holidays,35 to 44 years,Sleeping,Female,2006-35 to 44 years-Female,35 to 44 years,2006,Female,19200,34760,48700
+623,2006,Annual,8.16,0.092,Nonholiday weekdays,35 to 44 years,Sleeping,Female,2006-35 to 44 years-Female,35 to 44 years,2006,Female,19200,34760,48700
+624,2007,Annual,8.41,0.071,All days,35 to 44 years,Sleeping,Female,2007-35 to 44 years-Female,35 to 44 years,2007,Female,18820,35410,48370
+625,2007,Annual,9.23,0.087,Weekend days and holidays,35 to 44 years,Sleeping,Female,2007-35 to 44 years-Female,35 to 44 years,2007,Female,18820,35410,48370
+626,2007,Annual,8.07,0.095,Nonholiday weekdays,35 to 44 years,Sleeping,Female,2007-35 to 44 years-Female,35 to 44 years,2007,Female,18820,35410,48370
+627,2008,Annual,8.44,0.06,All days,35 to 44 years,Sleeping,Female,2008-35 to 44 years-Female,35 to 44 years,2008,Female,18480,35540,46820
+628,2008,Annual,9.27,0.108,Weekend days and holidays,35 to 44 years,Sleeping,Female,2008-35 to 44 years-Female,35 to 44 years,2008,Female,18480,35540,46820
+629,2008,Annual,8.08,0.073,Nonholiday weekdays,35 to 44 years,Sleeping,Female,2008-35 to 44 years-Female,35 to 44 years,2008,Female,18480,35540,46820
+630,2009,Annual,8.53,0.069,All days,35 to 44 years,Sleeping,Female,2009-35 to 44 years-Female,35 to 44 years,2009,Female,17910,35930,47530
+631,2009,Annual,9.25,0.09,Weekend days and holidays,35 to 44 years,Sleeping,Female,2009-35 to 44 years-Female,35 to 44 years,2009,Female,17910,35930,47530
+632,2009,Annual,8.23,0.088,Nonholiday weekdays,35 to 44 years,Sleeping,Female,2009-35 to 44 years-Female,35 to 44 years,2009,Female,17910,35930,47530
+633,2010,Annual,8.5,0.072,All days,35 to 44 years,Sleeping,Female,2010-35 to 44 years-Female,35 to 44 years,2010,Female,17760,37210,48550
+634,2010,Annual,9.35,0.089,Weekend days and holidays,35 to 44 years,Sleeping,Female,2010-35 to 44 years-Female,35 to 44 years,2010,Female,17760,37210,48550
+635,2010,Annual,8.14,0.097,Nonholiday weekdays,35 to 44 years,Sleeping,Female,2010-35 to 44 years-Female,35 to 44 years,2010,Female,17760,37210,48550
+636,2011,Annual,8.51,0.069,All days,35 to 44 years,Sleeping,Female,2011-35 to 44 years-Female,35 to 44 years,2011,Female,17670,37840,47890
+637,2011,Annual,9.33,0.13,Weekend days and holidays,35 to 44 years,Sleeping,Female,2011-35 to 44 years-Female,35 to 44 years,2011,Female,17670,37840,47890
+638,2011,Annual,8.15,0.08,Nonholiday weekdays,35 to 44 years,Sleeping,Female,2011-35 to 44 years-Female,35 to 44 years,2011,Female,17670,37840,47890
+639,2012,Annual,8.69,0.08,All days,35 to 44 years,Sleeping,Female,2012-35 to 44 years-Female,35 to 44 years,2012,Female,17540,38970,48380
+640,2012,Annual,9.47,0.097,Weekend days and holidays,35 to 44 years,Sleeping,Female,2012-35 to 44 years-Female,35 to 44 years,2012,Female,17540,38970,48380
+641,2012,Annual,8.36,0.102,Nonholiday weekdays,35 to 44 years,Sleeping,Female,2012-35 to 44 years-Female,35 to 44 years,2012,Female,17540,38970,48380
+642,2013,Annual,8.67,0.068,All days,35 to 44 years,Sleeping,Female,2013-35 to 44 years-Female,35 to 44 years,2013,Female,18000,37870,46450
+643,2013,Annual,8.67,0.068,All days,35 to 44 years,Sleeping,Female,2013-35 to 44 years-Female,35 to 44 years,2013,Female,17360,39060,47920
+644,2013,Annual,9.42,0.105,Weekend days and holidays,35 to 44 years,Sleeping,Female,2013-35 to 44 years-Female,35 to 44 years,2013,Female,18000,37870,46450
+645,2013,Annual,9.42,0.105,Weekend days and holidays,35 to 44 years,Sleeping,Female,2013-35 to 44 years-Female,35 to 44 years,2013,Female,17360,39060,47920
+646,2013,Annual,8.34,0.087,Nonholiday weekdays,35 to 44 years,Sleeping,Female,2013-35 to 44 years-Female,35 to 44 years,2013,Female,18000,37870,46450
+647,2013,Annual,8.34,0.087,Nonholiday weekdays,35 to 44 years,Sleeping,Female,2013-35 to 44 years-Female,35 to 44 years,2013,Female,17360,39060,47920
+648,2014,Annual,8.63,0.064,All days,35 to 44 years,Sleeping,Female,2014-35 to 44 years-Female,35 to 44 years,2014,Female,17830,41080,49690
+649,2014,Annual,9.5,0.101,Weekend days and holidays,35 to 44 years,Sleeping,Female,2014-35 to 44 years-Female,35 to 44 years,2014,Female,17830,41080,49690
+650,2014,Annual,8.25,0.084,Nonholiday weekdays,35 to 44 years,Sleeping,Female,2014-35 to 44 years-Female,35 to 44 years,2014,Female,17830,41080,49690
+651,2015,Annual,8.68,0.083,All days,35 to 44 years,Sleeping,Female,2015-35 to 44 years-Female,35 to 44 years,2015,Female,17920,42120,50980
+652,2015,Annual,9.35,0.106,Weekend days and holidays,35 to 44 years,Sleeping,Female,2015-35 to 44 years-Female,35 to 44 years,2015,Female,17920,42120,50980
+653,2015,Annual,8.39,0.106,Nonholiday weekdays,35 to 44 years,Sleeping,Female,2015-35 to 44 years-Female,35 to 44 years,2015,Female,17920,42120,50980
+654,2016,Annual,8.58,0.064,All days,35 to 44 years,Sleeping,Female,2016-35 to 44 years-Female,35 to 44 years,2016,Female,17860,44600,53520
+655,2016,Annual,9.41,0.112,Weekend days and holidays,35 to 44 years,Sleeping,Female,2016-35 to 44 years-Female,35 to 44 years,2016,Female,17860,44600,53520
+656,2016,Annual,8.22,0.078,Nonholiday weekdays,35 to 44 years,Sleeping,Female,2016-35 to 44 years-Female,35 to 44 years,2016,Female,17860,44600,53520
+657,2017,Annual,8.77,0.088,All days,35 to 44 years,Sleeping,Female,2017-35 to 44 years-Female,35 to 44 years,2017,Female,18220,47940,56530
+658,2017,Annual,8.77,0.088,All days,35 to 44 years,Sleeping,Female,2017-35 to 44 years-Female,35 to 44 years,2017,Female,18240,47380,55860
+659,2017,Annual,9.46,0.112,Weekend days and holidays,35 to 44 years,Sleeping,Female,2017-35 to 44 years-Female,35 to 44 years,2017,Female,18220,47940,56530
+660,2017,Annual,9.46,0.112,Weekend days and holidays,35 to 44 years,Sleeping,Female,2017-35 to 44 years-Female,35 to 44 years,2017,Female,18240,47380,55860
+661,2017,Annual,8.48,0.115,Nonholiday weekdays,35 to 44 years,Sleeping,Female,2017-35 to 44 years-Female,35 to 44 years,2017,Female,18220,47940,56530
+662,2017,Annual,8.48,0.115,Nonholiday weekdays,35 to 44 years,Sleeping,Female,2017-35 to 44 years-Female,35 to 44 years,2017,Female,18240,47380,55860
+663,2003,Annual,8.26,0.05,All days,45 to 54 years,Sleeping,Female,2003-45 to 54 years-Female,45 to 54 years,2003,Female,19300,32580,49540
+664,2003,Annual,9.04,0.076,Weekend days and holidays,45 to 54 years,Sleeping,Female,2003-45 to 54 years-Female,45 to 54 years,2003,Female,19300,32580,49540
+665,2003,Annual,7.93,0.061,Nonholiday weekdays,45 to 54 years,Sleeping,Female,2003-45 to 54 years-Female,45 to 54 years,2003,Female,19300,32580,49540
+666,2004,Annual,8.23,0.059,All days,45 to 54 years,Sleeping,Female,2004-45 to 54 years-Female,45 to 54 years,2004,Female,19590,33190,49230
+667,2004,Annual,9.05,0.088,Weekend days and holidays,45 to 54 years,Sleeping,Female,2004-45 to 54 years-Female,45 to 54 years,2004,Female,19590,33190,49230
+668,2004,Annual,7.9,0.073,Nonholiday weekdays,45 to 54 years,Sleeping,Female,2004-45 to 54 years-Female,45 to 54 years,2004,Female,19590,33190,49230
+669,2005,Annual,8.36,0.071,All days,45 to 54 years,Sleeping,Female,2005-45 to 54 years-Female,45 to 54 years,2005,Female,19920,34450,49650
+670,2005,Annual,9.08,0.099,Weekend days and holidays,45 to 54 years,Sleeping,Female,2005-45 to 54 years-Female,45 to 54 years,2005,Female,19920,34450,49650
+671,2005,Annual,8.06,0.093,Nonholiday weekdays,45 to 54 years,Sleeping,Female,2005-45 to 54 years-Female,45 to 54 years,2005,Female,19920,34450,49650
+672,2006,Annual,8.4,0.079,All days,45 to 54 years,Sleeping,Female,2006-45 to 54 years-Female,45 to 54 years,2006,Female,20140,36740,51470
+673,2006,Annual,9.4,0.106,Weekend days and holidays,45 to 54 years,Sleeping,Female,2006-45 to 54 years-Female,45 to 54 years,2006,Female,20140,36740,51470
+674,2006,Annual,7.97,0.105,Nonholiday weekdays,45 to 54 years,Sleeping,Female,2006-45 to 54 years-Female,45 to 54 years,2006,Female,20140,36740,51470
+675,2007,Annual,8.29,0.072,All days,45 to 54 years,Sleeping,Female,2007-45 to 54 years-Female,45 to 54 years,2007,Female,20240,37650,51420
+676,2007,Annual,8.89,0.111,Weekend days and holidays,45 to 54 years,Sleeping,Female,2007-45 to 54 years-Female,45 to 54 years,2007,Female,20240,37650,51420
+677,2007,Annual,8.04,0.092,Nonholiday weekdays,45 to 54 years,Sleeping,Female,2007-45 to 54 years-Female,45 to 54 years,2007,Female,20240,37650,51420
+678,2008,Annual,8.39,0.085,All days,45 to 54 years,Sleeping,Female,2008-45 to 54 years-Female,45 to 54 years,2008,Female,20490,36610,48240
+679,2008,Annual,9.13,0.098,Weekend days and holidays,45 to 54 years,Sleeping,Female,2008-45 to 54 years-Female,45 to 54 years,2008,Female,20490,36610,48240
+680,2008,Annual,8.07,0.111,Nonholiday weekdays,45 to 54 years,Sleeping,Female,2008-45 to 54 years-Female,45 to 54 years,2008,Female,20490,36610,48240
+681,2009,Annual,8.42,0.067,All days,45 to 54 years,Sleeping,Female,2009-45 to 54 years-Female,45 to 54 years,2009,Female,20420,37680,49840
+682,2009,Annual,9.19,0.114,Weekend days and holidays,45 to 54 years,Sleeping,Female,2009-45 to 54 years-Female,45 to 54 years,2009,Female,20420,37680,49840
+683,2009,Annual,8.08,0.087,Nonholiday weekdays,45 to 54 years,Sleeping,Female,2009-45 to 54 years-Female,45 to 54 years,2009,Female,20420,37680,49840
+684,2010,Annual,8.36,0.074,All days,45 to 54 years,Sleeping,Female,2010-45 to 54 years-Female,45 to 54 years,2010,Female,20290,37410,48820
+685,2010,Annual,9.22,0.101,Weekend days and holidays,45 to 54 years,Sleeping,Female,2010-45 to 54 years-Female,45 to 54 years,2010,Female,20290,37410,48820
+686,2010,Annual,7.99,0.102,Nonholiday weekdays,45 to 54 years,Sleeping,Female,2010-45 to 54 years-Female,45 to 54 years,2010,Female,20290,37410,48820
+687,2011,Annual,8.51,0.092,All days,45 to 54 years,Sleeping,Female,2011-45 to 54 years-Female,45 to 54 years,2011,Female,19950,38140,48270
+688,2011,Annual,9.14,0.107,Weekend days and holidays,45 to 54 years,Sleeping,Female,2011-45 to 54 years-Female,45 to 54 years,2011,Female,19950,38140,48270
+689,2011,Annual,8.25,0.112,Nonholiday weekdays,45 to 54 years,Sleeping,Female,2011-45 to 54 years-Female,45 to 54 years,2011,Female,19950,38140,48270
+690,2012,Annual,8.46,0.077,All days,45 to 54 years,Sleeping,Female,2012-45 to 54 years-Female,45 to 54 years,2012,Female,19760,39210,48690
+691,2012,Annual,9.25,0.13,Weekend days and holidays,45 to 54 years,Sleeping,Female,2012-45 to 54 years-Female,45 to 54 years,2012,Female,19760,39210,48690
+692,2012,Annual,8.12,0.1,Nonholiday weekdays,45 to 54 years,Sleeping,Female,2012-45 to 54 years-Female,45 to 54 years,2012,Female,19760,39210,48690
+693,2013,Annual,8.61,0.071,All days,45 to 54 years,Sleeping,Female,2013-45 to 54 years-Female,45 to 54 years,2013,Female,19820,40960,50250
+694,2013,Annual,8.61,0.071,All days,45 to 54 years,Sleeping,Female,2013-45 to 54 years-Female,45 to 54 years,2013,Female,19540,40290,49430
+695,2013,Annual,9.34,0.129,Weekend days and holidays,45 to 54 years,Sleeping,Female,2013-45 to 54 years-Female,45 to 54 years,2013,Female,19820,40960,50250
+696,2013,Annual,9.34,0.129,Weekend days and holidays,45 to 54 years,Sleeping,Female,2013-45 to 54 years-Female,45 to 54 years,2013,Female,19540,40290,49430
+697,2013,Annual,8.29,0.092,Nonholiday weekdays,45 to 54 years,Sleeping,Female,2013-45 to 54 years-Female,45 to 54 years,2013,Female,19820,40960,50250
+698,2013,Annual,8.29,0.092,Nonholiday weekdays,45 to 54 years,Sleeping,Female,2013-45 to 54 years-Female,45 to 54 years,2013,Female,19540,40290,49430
+699,2014,Annual,8.68,0.081,All days,45 to 54 years,Sleeping,Female,2014-45 to 54 years-Female,45 to 54 years,2014,Female,19500,40740,49280
+700,2014,Annual,9.49,0.129,Weekend days and holidays,45 to 54 years,Sleeping,Female,2014-45 to 54 years-Female,45 to 54 years,2014,Female,19500,40740,49280
+701,2014,Annual,8.33,0.101,Nonholiday weekdays,45 to 54 years,Sleeping,Female,2014-45 to 54 years-Female,45 to 54 years,2014,Female,19500,40740,49280
+702,2015,Annual,8.49,0.08,All days,45 to 54 years,Sleeping,Female,2015-45 to 54 years-Female,45 to 54 years,2015,Female,19480,43630,52810
+703,2015,Annual,9.4,0.105,Weekend days and holidays,45 to 54 years,Sleeping,Female,2015-45 to 54 years-Female,45 to 54 years,2015,Female,19480,43630,52810
+704,2015,Annual,8.12,0.103,Nonholiday weekdays,45 to 54 years,Sleeping,Female,2015-45 to 54 years-Female,45 to 54 years,2015,Female,19480,43630,52810
+705,2016,Annual,8.71,0.112,All days,45 to 54 years,Sleeping,Female,2016-45 to 54 years-Female,45 to 54 years,2016,Female,19170,45960,55140
+706,2016,Annual,9.3,0.145,Weekend days and holidays,45 to 54 years,Sleeping,Female,2016-45 to 54 years-Female,45 to 54 years,2016,Female,19170,45960,55140
+707,2016,Annual,8.47,0.143,Nonholiday weekdays,45 to 54 years,Sleeping,Female,2016-45 to 54 years-Female,45 to 54 years,2016,Female,19170,45960,55140
+708,2017,Annual,8.52,0.098,All days,45 to 54 years,Sleeping,Female,2017-45 to 54 years-Female,45 to 54 years,2017,Female,19100,48790,57530
+709,2017,Annual,8.52,0.098,All days,45 to 54 years,Sleeping,Female,2017-45 to 54 years-Female,45 to 54 years,2017,Female,19170,47450,55950
+710,2017,Annual,9.22,0.149,Weekend days and holidays,45 to 54 years,Sleeping,Female,2017-45 to 54 years-Female,45 to 54 years,2017,Female,19100,48790,57530
+711,2017,Annual,9.22,0.149,Weekend days and holidays,45 to 54 years,Sleeping,Female,2017-45 to 54 years-Female,45 to 54 years,2017,Female,19170,47450,55950
+712,2017,Annual,8.22,0.128,Nonholiday weekdays,45 to 54 years,Sleeping,Female,2017-45 to 54 years-Female,45 to 54 years,2017,Female,19100,48790,57530
+713,2017,Annual,8.22,0.128,Nonholiday weekdays,45 to 54 years,Sleeping,Female,2017-45 to 54 years-Female,45 to 54 years,2017,Female,19170,47450,55950
+714,2003,Annual,8.39,0.055,All days,55 to 64 years,Sleeping,Female,2003-55 to 64 years-Female,55 to 64 years,2003,Female,13420,27910,42430
+715,2003,Annual,8.93,0.077,Weekend days and holidays,55 to 64 years,Sleeping,Female,2003-55 to 64 years-Female,55 to 64 years,2003,Female,13420,27910,42430
+716,2003,Annual,8.17,0.073,Nonholiday weekdays,55 to 64 years,Sleeping,Female,2003-55 to 64 years-Female,55 to 64 years,2003,Female,13420,27910,42430
+717,2004,Annual,8.3,0.073,All days,55 to 64 years,Sleeping,Female,2004-55 to 64 years-Female,55 to 64 years,2004,Female,14080,28230,41870
+718,2004,Annual,8.79,0.103,Weekend days and holidays,55 to 64 years,Sleeping,Female,2004-55 to 64 years-Female,55 to 64 years,2004,Female,14080,28230,41870
+719,2004,Annual,8.1,0.092,Nonholiday weekdays,55 to 64 years,Sleeping,Female,2004-55 to 64 years-Female,55 to 64 years,2004,Female,14080,28230,41870
+720,2005,Annual,8.35,0.069,All days,55 to 64 years,Sleeping,Female,2005-55 to 64 years-Female,55 to 64 years,2005,Female,14640,30890,44530
+721,2005,Annual,8.78,0.103,Weekend days and holidays,55 to 64 years,Sleeping,Female,2005-55 to 64 years-Female,55 to 64 years,2005,Female,14640,30890,44530
+722,2005,Annual,8.17,0.093,Nonholiday weekdays,55 to 64 years,Sleeping,Female,2005-55 to 64 years-Female,55 to 64 years,2005,Female,14640,30890,44530
+723,2006,Annual,8.47,0.083,All days,55 to 64 years,Sleeping,Female,2006-55 to 64 years-Female,55 to 64 years,2006,Female,15070,33290,46630
+724,2006,Annual,8.83,0.105,Weekend days and holidays,55 to 64 years,Sleeping,Female,2006-55 to 64 years-Female,55 to 64 years,2006,Female,15070,33290,46630
+725,2006,Annual,8.32,0.102,Nonholiday weekdays,55 to 64 years,Sleeping,Female,2006-55 to 64 years-Female,55 to 64 years,2006,Female,15070,33290,46630
+726,2007,Annual,8.2,0.081,All days,55 to 64 years,Sleeping,Female,2007-55 to 64 years-Female,55 to 64 years,2007,Female,15600,33390,45610
+727,2007,Annual,8.76,0.11,Weekend days and holidays,55 to 64 years,Sleeping,Female,2007-55 to 64 years-Female,55 to 64 years,2007,Female,15600,33390,45610
+728,2007,Annual,7.98,0.105,Nonholiday weekdays,55 to 64 years,Sleeping,Female,2007-55 to 64 years-Female,55 to 64 years,2007,Female,15600,33390,45610
+729,2008,Annual,8.29,0.084,All days,55 to 64 years,Sleeping,Female,2008-55 to 64 years-Female,55 to 64 years,2008,Female,16140,34050,44860
+730,2008,Annual,8.88,0.113,Weekend days and holidays,55 to 64 years,Sleeping,Female,2008-55 to 64 years-Female,55 to 64 years,2008,Female,16140,34050,44860
+731,2008,Annual,8.04,0.098,Nonholiday weekdays,55 to 64 years,Sleeping,Female,2008-55 to 64 years-Female,55 to 64 years,2008,Female,16140,34050,44860
+732,2009,Annual,8.49,0.072,All days,55 to 64 years,Sleeping,Female,2009-55 to 64 years-Female,55 to 64 years,2009,Female,16690,34850,46100
+733,2009,Annual,9.02,0.115,Weekend days and holidays,55 to 64 years,Sleeping,Female,2009-55 to 64 years-Female,55 to 64 years,2009,Female,16690,34850,46100
+734,2009,Annual,8.27,0.101,Nonholiday weekdays,55 to 64 years,Sleeping,Female,2009-55 to 64 years-Female,55 to 64 years,2009,Female,16690,34850,46100
+735,2010,Annual,8.49,0.074,All days,55 to 64 years,Sleeping,Female,2010-55 to 64 years-Female,55 to 64 years,2010,Female,17630,34100,44490
+736,2010,Annual,9.03,0.095,Weekend days and holidays,55 to 64 years,Sleeping,Female,2010-55 to 64 years-Female,55 to 64 years,2010,Female,17630,34100,44490
+737,2010,Annual,8.27,0.093,Nonholiday weekdays,55 to 64 years,Sleeping,Female,2010-55 to 64 years-Female,55 to 64 years,2010,Female,17630,34100,44490
+738,2011,Annual,8.54,0.076,All days,55 to 64 years,Sleeping,Female,2011-55 to 64 years-Female,55 to 64 years,2011,Female,17870,36860,46650
+739,2011,Annual,8.97,0.116,Weekend days and holidays,55 to 64 years,Sleeping,Female,2011-55 to 64 years-Female,55 to 64 years,2011,Female,17870,36860,46650
+740,2011,Annual,8.35,0.097,Nonholiday weekdays,55 to 64 years,Sleeping,Female,2011-55 to 64 years-Female,55 to 64 years,2011,Female,17870,36860,46650
+741,2012,Annual,8.61,0.073,All days,55 to 64 years,Sleeping,Female,2012-55 to 64 years-Female,55 to 64 years,2012,Female,18100,38200,47430
+742,2012,Annual,9.04,0.099,Weekend days and holidays,55 to 64 years,Sleeping,Female,2012-55 to 64 years-Female,55 to 64 years,2012,Female,18100,38200,47430
+743,2012,Annual,8.44,0.101,Nonholiday weekdays,55 to 64 years,Sleeping,Female,2012-55 to 64 years-Female,55 to 64 years,2012,Female,18100,38200,47430
+744,2013,Annual,8.46,0.08,All days,55 to 64 years,Sleeping,Female,2013-55 to 64 years-Female,55 to 64 years,2013,Female,18840,39500,48460
+745,2013,Annual,8.46,0.08,All days,55 to 64 years,Sleeping,Female,2013-55 to 64 years-Female,55 to 64 years,2013,Female,18360,37880,46480
+746,2013,Annual,8.84,0.106,Weekend days and holidays,55 to 64 years,Sleeping,Female,2013-55 to 64 years-Female,55 to 64 years,2013,Female,18840,39500,48460
+747,2013,Annual,8.84,0.106,Weekend days and holidays,55 to 64 years,Sleeping,Female,2013-55 to 64 years-Female,55 to 64 years,2013,Female,18360,37880,46480
+748,2013,Annual,8.29,0.103,Nonholiday weekdays,55 to 64 years,Sleeping,Female,2013-55 to 64 years-Female,55 to 64 years,2013,Female,18840,39500,48460
+749,2013,Annual,8.29,0.103,Nonholiday weekdays,55 to 64 years,Sleeping,Female,2013-55 to 64 years-Female,55 to 64 years,2013,Female,18360,37880,46480
+750,2014,Annual,8.51,0.065,All days,55 to 64 years,Sleeping,Female,2014-55 to 64 years-Female,55 to 64 years,2014,Female,19000,37790,45710
+751,2014,Annual,9.05,0.097,Weekend days and holidays,55 to 64 years,Sleeping,Female,2014-55 to 64 years-Female,55 to 64 years,2014,Female,19000,37790,45710
+752,2014,Annual,8.29,0.085,Nonholiday weekdays,55 to 64 years,Sleeping,Female,2014-55 to 64 years-Female,55 to 64 years,2014,Female,19000,37790,45710
+753,2015,Annual,8.63,0.088,All days,55 to 64 years,Sleeping,Female,2015-55 to 64 years-Female,55 to 64 years,2015,Female,19480,39460,47770
+754,2015,Annual,9.02,0.11,Weekend days and holidays,55 to 64 years,Sleeping,Female,2015-55 to 64 years-Female,55 to 64 years,2015,Female,19480,39460,47770
+755,2015,Annual,8.47,0.116,Nonholiday weekdays,55 to 64 years,Sleeping,Female,2015-55 to 64 years-Female,55 to 64 years,2015,Female,19480,39460,47770
+756,2016,Annual,8.61,0.078,All days,55 to 64 years,Sleeping,Female,2016-55 to 64 years-Female,55 to 64 years,2016,Female,19710,43370,52040
+757,2016,Annual,9.09,0.106,Weekend days and holidays,55 to 64 years,Sleeping,Female,2016-55 to 64 years-Female,55 to 64 years,2016,Female,19710,43370,52040
+758,2016,Annual,8.4,0.101,Nonholiday weekdays,55 to 64 years,Sleeping,Female,2016-55 to 64 years-Female,55 to 64 years,2016,Female,19710,43370,52040
+759,2017,Annual,8.51,0.086,All days,55 to 64 years,Sleeping,Female,2017-55 to 64 years-Female,55 to 64 years,2017,Female,19750,44990,53050
+760,2017,Annual,8.51,0.086,All days,55 to 64 years,Sleeping,Female,2017-55 to 64 years-Female,55 to 64 years,2017,Female,19750,43450,51230
+761,2017,Annual,9.04,0.098,Weekend days and holidays,55 to 64 years,Sleeping,Female,2017-55 to 64 years-Female,55 to 64 years,2017,Female,19750,44990,53050
+762,2017,Annual,9.04,0.098,Weekend days and holidays,55 to 64 years,Sleeping,Female,2017-55 to 64 years-Female,55 to 64 years,2017,Female,19750,43450,51230
+763,2017,Annual,8.29,0.113,Nonholiday weekdays,55 to 64 years,Sleeping,Female,2017-55 to 64 years-Female,55 to 64 years,2017,Female,19750,44990,53050
+764,2017,Annual,8.29,0.113,Nonholiday weekdays,55 to 64 years,Sleeping,Female,2017-55 to 64 years-Female,55 to 64 years,2017,Female,19750,43450,51230
+765,2003,Annual,8.84,0.049,All days,65 years and over,Sleeping,Female,2003-65 years and over-Female,65 years and over,2003,Female,19230,16820,25570
+766,2003,Annual,8.84,0.049,All days,65 years and over,Sleeping,Female,2003-65 years and over-Female,65 years and over,2003,Female,9521,18330,27870
+767,2003,Annual,8.84,0.049,All days,65 years and over,Sleeping,Female,2003-65 years and over-Female,65 years and over,2003,Female,9704,15340,23320
+768,2003,Annual,9.18,0.072,Weekend days and holidays,65 years and over,Sleeping,Female,2003-65 years and over-Female,65 years and over,2003,Female,19230,16820,25570
+769,2003,Annual,9.18,0.072,Weekend days and holidays,65 years and over,Sleeping,Female,2003-65 years and over-Female,65 years and over,2003,Female,9521,18330,27870
+770,2003,Annual,9.18,0.072,Weekend days and holidays,65 years and over,Sleeping,Female,2003-65 years and over-Female,65 years and over,2003,Female,9704,15340,23320
+771,2003,Annual,8.7,0.06,Nonholiday weekdays,65 years and over,Sleeping,Female,2003-65 years and over-Female,65 years and over,2003,Female,19230,16820,25570
+772,2003,Annual,8.7,0.06,Nonholiday weekdays,65 years and over,Sleeping,Female,2003-65 years and over-Female,65 years and over,2003,Female,9521,18330,27870
+773,2003,Annual,8.7,0.06,Nonholiday weekdays,65 years and over,Sleeping,Female,2003-65 years and over-Female,65 years and over,2003,Female,9704,15340,23320
+774,2004,Annual,8.93,0.054,All days,65 years and over,Sleeping,Female,2004-65 years and over-Female,65 years and over,2004,Female,19350,17260,25600
+775,2004,Annual,8.93,0.054,All days,65 years and over,Sleeping,Female,2004-65 years and over-Female,65 years and over,2004,Female,9526,19280,28590
+776,2004,Annual,8.93,0.054,All days,65 years and over,Sleeping,Female,2004-65 years and over-Female,65 years and over,2004,Female,9824,15300,22690
+777,2004,Annual,9.05,0.067,Weekend days and holidays,65 years and over,Sleeping,Female,2004-65 years and over-Female,65 years and over,2004,Female,19350,17260,25600
+778,2004,Annual,9.05,0.067,Weekend days and holidays,65 years and over,Sleeping,Female,2004-65 years and over-Female,65 years and over,2004,Female,9526,19280,28590
+779,2004,Annual,9.05,0.067,Weekend days and holidays,65 years and over,Sleeping,Female,2004-65 years and over-Female,65 years and over,2004,Female,9824,15300,22690
+780,2004,Annual,8.88,0.071,Nonholiday weekdays,65 years and over,Sleeping,Female,2004-65 years and over-Female,65 years and over,2004,Female,19350,17260,25600
+781,2004,Annual,8.88,0.071,Nonholiday weekdays,65 years and over,Sleeping,Female,2004-65 years and over-Female,65 years and over,2004,Female,9526,19280,28590
+782,2004,Annual,8.88,0.071,Nonholiday weekdays,65 years and over,Sleeping,Female,2004-65 years and over-Female,65 years and over,2004,Female,9824,15300,22690
+783,2005,Annual,8.95,0.07,All days,65 years and over,Sleeping,Female,2005-65 years and over-Female,65 years and over,2005,Female,19600,18200,26230
+784,2005,Annual,8.95,0.07,All days,65 years and over,Sleeping,Female,2005-65 years and over-Female,65 years and over,2005,Female,9625,19890,28680
+785,2005,Annual,8.95,0.07,All days,65 years and over,Sleeping,Female,2005-65 years and over-Female,65 years and over,2005,Female,9973,16560,23870
+786,2005,Annual,9.28,0.119,Weekend days and holidays,65 years and over,Sleeping,Female,2005-65 years and over-Female,65 years and over,2005,Female,19600,18200,26230
+787,2005,Annual,9.28,0.119,Weekend days and holidays,65 years and over,Sleeping,Female,2005-65 years and over-Female,65 years and over,2005,Female,9625,19890,28680
+788,2005,Annual,9.28,0.119,Weekend days and holidays,65 years and over,Sleeping,Female,2005-65 years and over-Female,65 years and over,2005,Female,9973,16560,23870
+789,2005,Annual,8.81,0.081,Nonholiday weekdays,65 years and over,Sleeping,Female,2005-65 years and over-Female,65 years and over,2005,Female,19600,18200,26230
+790,2005,Annual,8.81,0.081,Nonholiday weekdays,65 years and over,Sleeping,Female,2005-65 years and over-Female,65 years and over,2005,Female,9625,19890,28680
+791,2005,Annual,8.81,0.081,Nonholiday weekdays,65 years and over,Sleeping,Female,2005-65 years and over-Female,65 years and over,2005,Female,9973,16560,23870
+792,2006,Annual,8.82,0.071,All days,65 years and over,Sleeping,Female,2006-65 years and over-Female,65 years and over,2006,Female,19760,19770,27700
+793,2006,Annual,8.82,0.071,All days,65 years and over,Sleeping,Female,2006-65 years and over-Female,65 years and over,2006,Female,9781,21590,30240
+794,2006,Annual,8.82,0.071,All days,65 years and over,Sleeping,Female,2006-65 years and over-Female,65 years and over,2006,Female,9975,17990,25200
+795,2006,Annual,8.94,0.094,Weekend days and holidays,65 years and over,Sleeping,Female,2006-65 years and over-Female,65 years and over,2006,Female,19760,19770,27700
+796,2006,Annual,8.94,0.094,Weekend days and holidays,65 years and over,Sleeping,Female,2006-65 years and over-Female,65 years and over,2006,Female,9781,21590,30240
+797,2006,Annual,8.94,0.094,Weekend days and holidays,65 years and over,Sleeping,Female,2006-65 years and over-Female,65 years and over,2006,Female,9975,17990,25200
+798,2006,Annual,8.77,0.097,Nonholiday weekdays,65 years and over,Sleeping,Female,2006-65 years and over-Female,65 years and over,2006,Female,19760,19770,27700
+799,2006,Annual,8.77,0.097,Nonholiday weekdays,65 years and over,Sleeping,Female,2006-65 years and over-Female,65 years and over,2006,Female,9781,21590,30240
+800,2006,Annual,8.77,0.097,Nonholiday weekdays,65 years and over,Sleeping,Female,2006-65 years and over-Female,65 years and over,2006,Female,9975,17990,25200
+801,2007,Annual,8.91,0.071,All days,65 years and over,Sleeping,Female,2007-65 years and over-Female,65 years and over,2007,Female,20170,21050,28740
+802,2007,Annual,8.91,0.071,All days,65 years and over,Sleeping,Female,2007-65 years and over-Female,65 years and over,2007,Female,10140,23280,31790
+803,2007,Annual,8.91,0.071,All days,65 years and over,Sleeping,Female,2007-65 years and over-Female,65 years and over,2007,Female,10030,18790,25660
+804,2007,Annual,9.13,0.104,Weekend days and holidays,65 years and over,Sleeping,Female,2007-65 years and over-Female,65 years and over,2007,Female,20170,21050,28740
+805,2007,Annual,9.13,0.104,Weekend days and holidays,65 years and over,Sleeping,Female,2007-65 years and over-Female,65 years and over,2007,Female,10140,23280,31790
+806,2007,Annual,9.13,0.104,Weekend days and holidays,65 years and over,Sleeping,Female,2007-65 years and over-Female,65 years and over,2007,Female,10030,18790,25660
+807,2007,Annual,8.82,0.088,Nonholiday weekdays,65 years and over,Sleeping,Female,2007-65 years and over-Female,65 years and over,2007,Female,20170,21050,28740
+808,2007,Annual,8.82,0.088,Nonholiday weekdays,65 years and over,Sleeping,Female,2007-65 years and over-Female,65 years and over,2007,Female,10140,23280,31790
+809,2007,Annual,8.82,0.088,Nonholiday weekdays,65 years and over,Sleeping,Female,2007-65 years and over-Female,65 years and over,2007,Female,10030,18790,25660
+810,2008,Annual,8.94,0.07,All days,65 years and over,Sleeping,Female,2008-65 years and over-Female,65 years and over,2008,Female,20590,21580,28440
+811,2008,Annual,8.94,0.07,All days,65 years and over,Sleeping,Female,2008-65 years and over-Female,65 years and over,2008,Female,10510,23480,30930
+812,2008,Annual,8.94,0.07,All days,65 years and over,Sleeping,Female,2008-65 years and over-Female,65 years and over,2008,Female,10080,19600,25830
+813,2008,Annual,9.31,0.099,Weekend days and holidays,65 years and over,Sleeping,Female,2008-65 years and over-Female,65 years and over,2008,Female,20590,21580,28440
+814,2008,Annual,9.31,0.099,Weekend days and holidays,65 years and over,Sleeping,Female,2008-65 years and over-Female,65 years and over,2008,Female,10510,23480,30930
+815,2008,Annual,9.31,0.099,Weekend days and holidays,65 years and over,Sleeping,Female,2008-65 years and over-Female,65 years and over,2008,Female,10080,19600,25830
+816,2008,Annual,8.79,0.086,Nonholiday weekdays,65 years and over,Sleeping,Female,2008-65 years and over-Female,65 years and over,2008,Female,20590,21580,28440
+817,2008,Annual,8.79,0.086,Nonholiday weekdays,65 years and over,Sleeping,Female,2008-65 years and over-Female,65 years and over,2008,Female,10510,23480,30930
+818,2008,Annual,8.79,0.086,Nonholiday weekdays,65 years and over,Sleeping,Female,2008-65 years and over-Female,65 years and over,2008,Female,10080,19600,25830
+819,2009,Annual,8.96,0.067,All days,65 years and over,Sleeping,Female,2009-65 years and over-Female,65 years and over,2009,Female,20900,22630,29930
+820,2009,Annual,8.96,0.067,All days,65 years and over,Sleeping,Female,2009-65 years and over-Female,65 years and over,2009,Female,10730,25230,33380
+821,2009,Annual,8.96,0.067,All days,65 years and over,Sleeping,Female,2009-65 years and over-Female,65 years and over,2009,Female,10170,19880,26290
+822,2009,Annual,9.21,0.083,Weekend days and holidays,65 years and over,Sleeping,Female,2009-65 years and over-Female,65 years and over,2009,Female,20900,22630,29930
+823,2009,Annual,9.21,0.083,Weekend days and holidays,65 years and over,Sleeping,Female,2009-65 years and over-Female,65 years and over,2009,Female,10730,25230,33380
+824,2009,Annual,9.21,0.083,Weekend days and holidays,65 years and over,Sleeping,Female,2009-65 years and over-Female,65 years and over,2009,Female,10170,19880,26290
+825,2009,Annual,8.86,0.083,Nonholiday weekdays,65 years and over,Sleeping,Female,2009-65 years and over-Female,65 years and over,2009,Female,20900,22630,29930
+826,2009,Annual,8.86,0.083,Nonholiday weekdays,65 years and over,Sleeping,Female,2009-65 years and over-Female,65 years and over,2009,Female,10730,25230,33380
+827,2009,Annual,8.86,0.083,Nonholiday weekdays,65 years and over,Sleeping,Female,2009-65 years and over-Female,65 years and over,2009,Female,10170,19880,26290
+828,2010,Annual,9.04,0.072,All days,65 years and over,Sleeping,Female,2010-65 years and over-Female,65 years and over,2010,Female,21500,22620,29520
+829,2010,Annual,9.04,0.072,All days,65 years and over,Sleeping,Female,2010-65 years and over-Female,65 years and over,2010,Female,11240,25590,33400
+830,2010,Annual,9.04,0.072,All days,65 years and over,Sleeping,Female,2010-65 years and over-Female,65 years and over,2010,Female,10260,19360,25270
+831,2010,Annual,9.22,0.094,Weekend days and holidays,65 years and over,Sleeping,Female,2010-65 years and over-Female,65 years and over,2010,Female,21500,22620,29520
+832,2010,Annual,9.22,0.094,Weekend days and holidays,65 years and over,Sleeping,Female,2010-65 years and over-Female,65 years and over,2010,Female,11240,25590,33400
+833,2010,Annual,9.22,0.094,Weekend days and holidays,65 years and over,Sleeping,Female,2010-65 years and over-Female,65 years and over,2010,Female,10260,19360,25270
+834,2010,Annual,8.96,0.092,Nonholiday weekdays,65 years and over,Sleeping,Female,2010-65 years and over-Female,65 years and over,2010,Female,21500,22620,29520
+835,2010,Annual,8.96,0.092,Nonholiday weekdays,65 years and over,Sleeping,Female,2010-65 years and over-Female,65 years and over,2010,Female,11240,25590,33400
+836,2010,Annual,8.96,0.092,Nonholiday weekdays,65 years and over,Sleeping,Female,2010-65 years and over-Female,65 years and over,2010,Female,10260,19360,25270
+837,2011,Annual,9.09,0.069,All days,65 years and over,Sleeping,Female,2011-65 years and over-Female,65 years and over,2011,Female,22280,22960,29060
+838,2011,Annual,9.09,0.069,All days,65 years and over,Sleeping,Female,2011-65 years and over-Female,65 years and over,2011,Female,11890,25770,32620
+839,2011,Annual,9.09,0.069,All days,65 years and over,Sleeping,Female,2011-65 years and over-Female,65 years and over,2011,Female,10390,19740,24980
+840,2011,Annual,9.29,0.094,Weekend days and holidays,65 years and over,Sleeping,Female,2011-65 years and over-Female,65 years and over,2011,Female,22280,22960,29060
+841,2011,Annual,9.29,0.094,Weekend days and holidays,65 years and over,Sleeping,Female,2011-65 years and over-Female,65 years and over,2011,Female,11890,25770,32620
+842,2011,Annual,9.29,0.094,Weekend days and holidays,65 years and over,Sleeping,Female,2011-65 years and over-Female,65 years and over,2011,Female,10390,19740,24980
+843,2011,Annual,9.02,0.085,Nonholiday weekdays,65 years and over,Sleeping,Female,2011-65 years and over-Female,65 years and over,2011,Female,22280,22960,29060
+844,2011,Annual,9.02,0.085,Nonholiday weekdays,65 years and over,Sleeping,Female,2011-65 years and over-Female,65 years and over,2011,Female,11890,25770,32620
+845,2011,Annual,9.02,0.085,Nonholiday weekdays,65 years and over,Sleeping,Female,2011-65 years and over-Female,65 years and over,2011,Female,10390,19740,24980
+846,2012,Annual,8.87,0.068,All days,65 years and over,Sleeping,Female,2012-65 years and over-Female,65 years and over,2012,Female,23050,23600,29310
+847,2012,Annual,8.87,0.068,All days,65 years and over,Sleeping,Female,2012-65 years and over-Female,65 years and over,2012,Female,12540,26780,33250
+848,2012,Annual,8.87,0.068,All days,65 years and over,Sleeping,Female,2012-65 years and over-Female,65 years and over,2012,Female,10510,19810,24590
+849,2012,Annual,9.06,0.104,Weekend days and holidays,65 years and over,Sleeping,Female,2012-65 years and over-Female,65 years and over,2012,Female,23050,23600,29310
+850,2012,Annual,9.06,0.104,Weekend days and holidays,65 years and over,Sleeping,Female,2012-65 years and over-Female,65 years and over,2012,Female,12540,26780,33250
+851,2012,Annual,9.06,0.104,Weekend days and holidays,65 years and over,Sleeping,Female,2012-65 years and over-Female,65 years and over,2012,Female,10510,19810,24590
+852,2012,Annual,8.79,0.089,Nonholiday weekdays,65 years and over,Sleeping,Female,2012-65 years and over-Female,65 years and over,2012,Female,23050,23600,29310
+853,2012,Annual,8.79,0.089,Nonholiday weekdays,65 years and over,Sleeping,Female,2012-65 years and over-Female,65 years and over,2012,Female,12540,26780,33250
+854,2012,Annual,8.79,0.089,Nonholiday weekdays,65 years and over,Sleeping,Female,2012-65 years and over-Female,65 years and over,2012,Female,10510,19810,24590
+855,2013,Annual,8.9,0.063,All days,65 years and over,Sleeping,Female,2013-65 years and over-Female,65 years and over,2013,Female,23790,26980,33100
+856,2013,Annual,8.9,0.063,All days,65 years and over,Sleeping,Female,2013-65 years and over-Female,65 years and over,2013,Female,23720,24940,30600
+857,2013,Annual,8.9,0.063,All days,65 years and over,Sleeping,Female,2013-65 years and over-Female,65 years and over,2013,Female,13120,30490,37400
+858,2013,Annual,8.9,0.063,All days,65 years and over,Sleeping,Female,2013-65 years and over-Female,65 years and over,2013,Female,13060,28460,34910
+859,2013,Annual,8.9,0.063,All days,65 years and over,Sleeping,Female,2013-65 years and over-Female,65 years and over,2013,Female,10670,22670,27810
+860,2013,Annual,8.9,0.063,All days,65 years and over,Sleeping,Female,2013-65 years and over-Female,65 years and over,2013,Female,10660,20640,25320
+861,2013,Annual,9.06,0.091,Weekend days and holidays,65 years and over,Sleeping,Female,2013-65 years and over-Female,65 years and over,2013,Female,23790,26980,33100
+862,2013,Annual,9.06,0.091,Weekend days and holidays,65 years and over,Sleeping,Female,2013-65 years and over-Female,65 years and over,2013,Female,23720,24940,30600
+863,2013,Annual,9.06,0.091,Weekend days and holidays,65 years and over,Sleeping,Female,2013-65 years and over-Female,65 years and over,2013,Female,13120,30490,37400
+864,2013,Annual,9.06,0.091,Weekend days and holidays,65 years and over,Sleeping,Female,2013-65 years and over-Female,65 years and over,2013,Female,13060,28460,34910
+865,2013,Annual,9.06,0.091,Weekend days and holidays,65 years and over,Sleeping,Female,2013-65 years and over-Female,65 years and over,2013,Female,10670,22670,27810
+866,2013,Annual,9.06,0.091,Weekend days and holidays,65 years and over,Sleeping,Female,2013-65 years and over-Female,65 years and over,2013,Female,10660,20640,25320
+867,2013,Annual,8.83,0.085,Nonholiday weekdays,65 years and over,Sleeping,Female,2013-65 years and over-Female,65 years and over,2013,Female,23790,26980,33100
+868,2013,Annual,8.83,0.085,Nonholiday weekdays,65 years and over,Sleeping,Female,2013-65 years and over-Female,65 years and over,2013,Female,23720,24940,30600
+869,2013,Annual,8.83,0.085,Nonholiday weekdays,65 years and over,Sleeping,Female,2013-65 years and over-Female,65 years and over,2013,Female,13120,30490,37400
+870,2013,Annual,8.83,0.085,Nonholiday weekdays,65 years and over,Sleeping,Female,2013-65 years and over-Female,65 years and over,2013,Female,13060,28460,34910
+871,2013,Annual,8.83,0.085,Nonholiday weekdays,65 years and over,Sleeping,Female,2013-65 years and over-Female,65 years and over,2013,Female,10670,22670,27810
+872,2013,Annual,8.83,0.085,Nonholiday weekdays,65 years and over,Sleeping,Female,2013-65 years and over-Female,65 years and over,2013,Female,10660,20640,25320
+873,2014,Annual,9.02,0.066,All days,65 years and over,Sleeping,Female,2014-65 years and over-Female,65 years and over,2014,Female,24480,26170,31660
+874,2014,Annual,9.02,0.066,All days,65 years and over,Sleeping,Female,2014-65 years and over-Female,65 years and over,2014,Female,13750,29530,35720
+875,2014,Annual,9.02,0.066,All days,65 years and over,Sleeping,Female,2014-65 years and over-Female,65 years and over,2014,Female,10730,21860,26450
+876,2014,Annual,9.13,0.094,Weekend days and holidays,65 years and over,Sleeping,Female,2014-65 years and over-Female,65 years and over,2014,Female,24480,26170,31660
+877,2014,Annual,9.13,0.094,Weekend days and holidays,65 years and over,Sleeping,Female,2014-65 years and over-Female,65 years and over,2014,Female,13750,29530,35720
+878,2014,Annual,9.13,0.094,Weekend days and holidays,65 years and over,Sleeping,Female,2014-65 years and over-Female,65 years and over,2014,Female,10730,21860,26450
+879,2014,Annual,8.98,0.086,Nonholiday weekdays,65 years and over,Sleeping,Female,2014-65 years and over-Female,65 years and over,2014,Female,24480,26170,31660
+880,2014,Annual,8.98,0.086,Nonholiday weekdays,65 years and over,Sleeping,Female,2014-65 years and over-Female,65 years and over,2014,Female,13750,29530,35720
+881,2014,Annual,8.98,0.086,Nonholiday weekdays,65 years and over,Sleeping,Female,2014-65 years and over-Female,65 years and over,2014,Female,10730,21860,26450
+882,2015,Annual,8.97,0.059,All days,65 years and over,Sleeping,Female,2015-65 years and over-Female,65 years and over,2015,Female,25270,27550,33350
+883,2015,Annual,8.97,0.059,All days,65 years and over,Sleeping,Female,2015-65 years and over-Female,65 years and over,2015,Female,14290,30520,36940
+884,2015,Annual,8.97,0.059,All days,65 years and over,Sleeping,Female,2015-65 years and over-Female,65 years and over,2015,Female,10980,23680,28670
+885,2015,Annual,9.3,0.086,Weekend days and holidays,65 years and over,Sleeping,Female,2015-65 years and over-Female,65 years and over,2015,Female,25270,27550,33350
+886,2015,Annual,9.3,0.086,Weekend days and holidays,65 years and over,Sleeping,Female,2015-65 years and over-Female,65 years and over,2015,Female,14290,30520,36940
+887,2015,Annual,9.3,0.086,Weekend days and holidays,65 years and over,Sleeping,Female,2015-65 years and over-Female,65 years and over,2015,Female,10980,23680,28670
+888,2015,Annual,8.83,0.074,Nonholiday weekdays,65 years and over,Sleeping,Female,2015-65 years and over-Female,65 years and over,2015,Female,25270,27550,33350
+889,2015,Annual,8.83,0.074,Nonholiday weekdays,65 years and over,Sleeping,Female,2015-65 years and over-Female,65 years and over,2015,Female,14290,30520,36940
+890,2015,Annual,8.83,0.074,Nonholiday weekdays,65 years and over,Sleeping,Female,2015-65 years and over-Female,65 years and over,2015,Female,10980,23680,28670
+891,2016,Annual,8.97,0.054,All days,65 years and over,Sleeping,Female,2016-65 years and over-Female,65 years and over,2016,Female,25900,28540,34240
+892,2016,Annual,8.97,0.054,All days,65 years and over,Sleeping,Female,2016-65 years and over-Female,65 years and over,2016,Female,14810,31700,38040
+893,2016,Annual,8.97,0.054,All days,65 years and over,Sleeping,Female,2016-65 years and over-Female,65 years and over,2016,Female,11080,24310,29170
+894,2016,Annual,9.1,0.081,Weekend days and holidays,65 years and over,Sleeping,Female,2016-65 years and over-Female,65 years and over,2016,Female,25900,28540,34240
+895,2016,Annual,9.1,0.081,Weekend days and holidays,65 years and over,Sleeping,Female,2016-65 years and over-Female,65 years and over,2016,Female,14810,31700,38040
+896,2016,Annual,9.1,0.081,Weekend days and holidays,65 years and over,Sleeping,Female,2016-65 years and over-Female,65 years and over,2016,Female,11080,24310,29170
+897,2016,Annual,8.92,0.071,Nonholiday weekdays,65 years and over,Sleeping,Female,2016-65 years and over-Female,65 years and over,2016,Female,25900,28540,34240
+898,2016,Annual,8.92,0.071,Nonholiday weekdays,65 years and over,Sleeping,Female,2016-65 years and over-Female,65 years and over,2016,Female,14810,31700,38040
+899,2016,Annual,8.92,0.071,Nonholiday weekdays,65 years and over,Sleeping,Female,2016-65 years and over-Female,65 years and over,2016,Female,11080,24310,29170
+900,2017,Annual,8.91,0.072,All days,65 years and over,Sleeping,Female,2017-65 years and over-Female,65 years and over,2017,Female,26760,30570,36040
+901,2017,Annual,8.91,0.072,All days,65 years and over,Sleeping,Female,2017-65 years and over-Female,65 years and over,2017,Female,26800,29750,35080
+902,2017,Annual,8.91,0.072,All days,65 years and over,Sleeping,Female,2017-65 years and over-Female,65 years and over,2017,Female,15310,34140,40250
+903,2017,Annual,8.91,0.072,All days,65 years and over,Sleeping,Female,2017-65 years and over-Female,65 years and over,2017,Female,15390,32750,38610
+904,2017,Annual,8.91,0.072,All days,65 years and over,Sleeping,Female,2017-65 years and over-Female,65 years and over,2017,Female,11450,25790,30410
+905,2017,Annual,8.91,0.072,All days,65 years and over,Sleeping,Female,2017-65 years and over-Female,65 years and over,2017,Female,11410,25710,30310
+906,2017,Annual,9.15,0.1,Weekend days and holidays,65 years and over,Sleeping,Female,2017-65 years and over-Female,65 years and over,2017,Female,26760,30570,36040
+907,2017,Annual,9.15,0.1,Weekend days and holidays,65 years and over,Sleeping,Female,2017-65 years and over-Female,65 years and over,2017,Female,26800,29750,35080
+908,2017,Annual,9.15,0.1,Weekend days and holidays,65 years and over,Sleeping,Female,2017-65 years and over-Female,65 years and over,2017,Female,15310,34140,40250
+909,2017,Annual,9.15,0.1,Weekend days and holidays,65 years and over,Sleeping,Female,2017-65 years and over-Female,65 years and over,2017,Female,15390,32750,38610
+910,2017,Annual,9.15,0.1,Weekend days and holidays,65 years and over,Sleeping,Female,2017-65 years and over-Female,65 years and over,2017,Female,11450,25790,30410
+911,2017,Annual,9.15,0.1,Weekend days and holidays,65 years and over,Sleeping,Female,2017-65 years and over-Female,65 years and over,2017,Female,11410,25710,30310
+912,2017,Annual,8.81,0.091,Nonholiday weekdays,65 years and over,Sleeping,Female,2017-65 years and over-Female,65 years and over,2017,Female,26760,30570,36040
+913,2017,Annual,8.81,0.091,Nonholiday weekdays,65 years and over,Sleeping,Female,2017-65 years and over-Female,65 years and over,2017,Female,26800,29750,35080
+914,2017,Annual,8.81,0.091,Nonholiday weekdays,65 years and over,Sleeping,Female,2017-65 years and over-Female,65 years and over,2017,Female,15310,34140,40250
+915,2017,Annual,8.81,0.091,Nonholiday weekdays,65 years and over,Sleeping,Female,2017-65 years and over-Female,65 years and over,2017,Female,15390,32750,38610
+916,2017,Annual,8.81,0.091,Nonholiday weekdays,65 years and over,Sleeping,Female,2017-65 years and over-Female,65 years and over,2017,Female,11450,25790,30410
+917,2017,Annual,8.81,0.091,Nonholiday weekdays,65 years and over,Sleeping,Female,2017-65 years and over-Female,65 years and over,2017,Female,11410,25710,30310
