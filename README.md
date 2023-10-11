@@ -26,7 +26,7 @@ Dependencies
 
 The following Python libraries were used for this project: 
 
-Pandas, Numpy, Matplotlib, Scipy and Seaborn
+Pandas, Numpy, Matplotlib, Scipy, Seaborn and Pywedge
 
 Key Findings
 
