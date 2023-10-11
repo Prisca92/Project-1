@@ -1,0 +1,5 @@
+README
+45 - 54
+
+The following is for the code for the 45 -54 age range of Americans that were studied in this group. The data was pulled from the all data v3 CSV file.
+forty_five_to_fifty_four_df was used to store all of the data from the 45-54 age range. The data from that dataframe was used to create two new dataframes forty_five_to_fifty_four_df_male and forty_five_to_fifty_four_df_female. The data was merged to a larger dataframe titled  'forty_five_to_fifty_four_df_mvf' to allow for chart comparisons based on gender. The first chart examines the relationship between income and sleep ( dual y axis), by gender from 2003 to 2017. A linnear regression was conducted afterwards for average annual income and average hours of sleep. The r value was 0.14472932564558405 ( showing a weak  correlation between sleep and average annual income). 
