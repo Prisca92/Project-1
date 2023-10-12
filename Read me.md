@@ -1,0 +1,39 @@
+Read me
+ 
+
+Demographic Analysis :
+
+Age group 15-24
+Bar charts with ( dual y axis) to examine the relationship between annual income and sleep by gender from 2003 to 2017 for individuals between the ages 15-24; 45-54, and 55-64.
+
+ This age group of individuals received an average of 9.3 hours of sleep per day. Hours slept per day over the duration of 14 years for the most part remained consistent when looking at both genders. When comparing females to males, females received more sleep than males but also had a lower annual income.
+
+This group presented to be the lowest earners while getting the most sleep compared to the other age groups.
+
+——————-
+Now, as we look at the graph representing the 45-55 age group we can see the avg amount of sleep was 8.3 which is the least amount of sleep on avg across all ages but the highest earners. However, the comparison between females and males sleep duration remains the same where females receive more sleep but the annual income is significantly lower than males.
+
+
+————————————
+Scatter plot
+
+-15-24
+
+The relationship is complex and can vary among individuals and population. In this case to further examine and check for any correlation a linear regression was conducted to measure average annual income and average hours of sleep.
+
+As shown The r-value is: 0.23764864816797043  which suggest a slightly stronger positive correlation between two variables compared to the examples below. It indicates that there is a positive correlation,but the strength of this correlation is still relatively modest.
+__________
+
+44-45
+The rvalue is:0.14472932564558405 
+
+ This R-value suggests a relatively weak correlation between two variables. It means that there is a negative correlation due to the slope in regression line, but it’s not very strong. The relationship between these two variables is not highly pronounced.
+——————
+55-64
+
+The r-value is:0.05532862711205264
+
+An r-value of approximately 0.0553 indicates a very weak and negative correlation between two variables. The relationship is extremely weak.
+
+In statistical terms, an r-value close to 0 signifies that there is little to no linear relationship between the variables. This means that any correlation present in the data is minimal and not practically significant. 
+
