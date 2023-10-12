@@ -4,7 +4,7 @@ Read me
 Demographic Analysis :
 
 Age group 15-24
-Bar charts with ( dual y axis) to examine the relationship between annual income and sleep by gender from 2003 to 2017 for individuals between the ages 15-24; 45-54, and 55-64.
+Bar charts with ( dual y axis) to examine the relationship between annual income and sleep by gender from 2003 to 2017 for individuals between the ages 15-24, 45-54, and 55-64.
 
  This age group of individuals received an average of 9.3 hours of sleep per day. Hours slept per day over the duration of 14 years for the most part remained consistent when looking at both genders. When comparing females to males, females received more sleep than males but also had a lower annual income.
 
@@ -17,7 +17,7 @@ Now, as we look at the graph representing the 45-55 age group we can see the avg
 ————————————
 Scatter plot
 
--15-24
+Age group 15-24
 
 The relationship is complex and can vary among individuals and population. In this case to further examine and check for any correlation a linear regression was conducted to measure average annual income and average hours of sleep.
 
